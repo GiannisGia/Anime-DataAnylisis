@@ -1,0 +1,1083 @@
+[{
+  "_id": {
+    "$oid": "65a11cb00adc3ecb1210b366"
+  },
+  "Rank": 16942,
+  "Name": "Kimitachi wa dou ikiru ka",
+  "Type": "Movie",
+  "Tags": [
+    "Drama"
+  ],
+  "Rating": 3.36,
+  "Release_year": 0,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb121072d6"
+  },
+  "Rank": 414,
+  "Name": "Laputa: Castle in the Sky",
+  "Type": "Movie",
+  "Tags": [
+    "Adventure",
+    "Fantasy",
+    "Family Friendly",
+    "Original Work"
+  ],
+  "Rating": 4.15,
+  "Release_year": 1986,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb1210720a"
+  },
+  "Rank": 210,
+  "Name": "My Neighbor Totoro",
+  "Type": "Movie",
+  "Tags": [
+    "Fantasy",
+    "Slice of Life",
+    "Contemporary Fantasy",
+    "Countryside",
+    "Family Friendly",
+    "Family Life",
+    "Japanese Mythology",
+    "Non-Human Protagonists",
+    "Siblings",
+    "Original Work"
+  ],
+  "Rating": 4.25,
+  "Release_year": 1988,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb1210722b"
+  },
+  "Rank": 243,
+  "Name": "Grave of the Fireflies",
+  "Type": "Movie",
+  "Tags": [
+    "Drama",
+    "Autobiographies",
+    "Death of a Loved One",
+    "Historical",
+    "Lifestyle Change",
+    "Melancholy",
+    "Orphans",
+    "Poverty",
+    "Siblings",
+    "War",
+    "World War 2"
+  ],
+  "Rating": 4.23,
+  "Release_year": 1988,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb121072d7"
+  },
+  "Rank": 415,
+  "Name": "Kiki's Delivery Service",
+  "Type": "Movie",
+  "Tags": [
+    "Fantasy",
+    "Slice of Life",
+    "Apprenticeship",
+    "Europe",
+    "Family Friendly",
+    "Lifestyle Change",
+    "Magic",
+    "Witches",
+    "Based on a Novel"
+  ],
+  "Rating": 4.15,
+  "Release_year": 1989,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cad0adc3ecb12107b45"
+  },
+  "Rank": 2573,
+  "Name": "Only Yesterday",
+  "Type": "Movie",
+  "Tags": [
+    "Drama",
+    "Josei",
+    "Slice of Life",
+    "Countryside",
+    "Based on a Manga",
+    "Mature Themes",
+    "",
+    "Domestic Abuse"
+  ],
+  "Rating": 3.72,
+  "Release_year": 1991,
+  "Content_Warning": [
+    "Mature Themes",
+    "",
+    "Domestic Abuse"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cad0adc3ecb12107590"
+  },
+  "Rank": 1112,
+  "Name": "Porco Rosso",
+  "Type": "Movie",
+  "Tags": [
+    "Action",
+    "Adventure",
+    "Aviation",
+    "Curse",
+    "Europe",
+    "Pigs",
+    "Pirates",
+    "Based on a Manga"
+  ],
+  "Rating": 3.95,
+  "Release_year": 1992,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cb00adc3ecb1210a786"
+  },
+  "Rank": 13902,
+  "Name": "Sora Iro no Tane",
+  "Type": "Other",
+  "Tags": [
+    "Family Friendly",
+    "Shorts"
+  ],
+  "Rating": 2.86,
+  "Release_year": 1992,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cb00adc3ecb1210ab9e"
+  },
+  "Rank": 14950,
+  "Name": "Nandarou",
+  "Type": "Other",
+  "Tags": [
+    "Shorts"
+  ],
+  "Rating": 2.54,
+  "Release_year": 1992,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11caf0adc3ecb1210950a"
+  },
+  "Rank": 9170,
+  "Name": "Ocean Waves",
+  "Type": "TV Sp",
+  "Tags": [
+    "Drama",
+    "Romance",
+    "Slice of Life",
+    "Coming of Age",
+    "School Life",
+    "Based on a Novel"
+  ],
+  "Rating": 3.28,
+  "Release_year": 1993,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cad0adc3ecb12107dd7"
+  },
+  "Rank": 3231,
+  "Name": "Pom Poko",
+  "Type": "Movie",
+  "Tags": [
+    "Adventure",
+    "Fantasy",
+    "Animal Protagonists",
+    "Anthropomorphic",
+    "Contemporary Fantasy",
+    "Environmental",
+    "Family Friendly",
+    "Japanese Mythology",
+    "Non-Human Protagonists",
+    "Original Work"
+  ],
+  "Rating": 3.64,
+  "Release_year": 1994,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb121072aa"
+  },
+  "Rank": 370,
+  "Name": "Whisper of the Heart",
+  "Type": "Movie",
+  "Tags": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Shoujo",
+    "Slice of Life",
+    "Coming of Age",
+    "Family Friendly",
+    "Based on a Manga"
+  ],
+  "Rating": 4.17,
+  "Release_year": 1995,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cad0adc3ecb12107976"
+  },
+  "Rank": 2110,
+  "Name": "On Your Mark",
+  "Type": "Music",
+  "Tags": [
+    "Angels",
+    "Family Friendly",
+    "Police"
+  ],
+  "Rating": 3.78,
+  "Release_year": 1995,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb1210718b"
+  },
+  "Rank": 83,
+  "Name": "Princess Mononoke",
+  "Type": "Movie",
+  "Tags": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Curse",
+    "Environmental",
+    "Feudal Japan",
+    "Forest",
+    "Japanese Mythology",
+    "Royalty",
+    "Original Work"
+  ],
+  "Rating": 4.36,
+  "Release_year": 1997,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cae0adc3ecb1210837e"
+  },
+  "Rank": 4678,
+  "Name": "My Neighbors The Yamadas",
+  "Type": "Movie",
+  "Tags": [
+    "Comedy",
+    "Slice of Life",
+    "Family Friendly",
+    "Family Life",
+    "Based on a 4-Koma Manga",
+    "Based on a Manga"
+  ],
+  "Rating": 3.53,
+  "Release_year": 1999,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11caf0adc3ecb12109561"
+  },
+  "Rank": 9257,
+  "Name": "Ghiblies",
+  "Type": "Other",
+  "Tags": [
+    "Comedy"
+  ],
+  "Rating": 3.27,
+  "Release_year": 2000,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb12107155"
+  },
+  "Rank": 29,
+  "Name": "Spirited Away",
+  "Type": "Movie",
+  "Tags": [
+    "Adventure",
+    "Fantasy",
+    "Curse",
+    "Family Friendly",
+    "Japanese Mythology",
+    "Magic",
+    "Person in a Strange World",
+    "Youkai",
+    "Original Work"
+  ],
+  "Rating": 4.45,
+  "Release_year": 2001,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cad0adc3ecb12107945"
+  },
+  "Rank": 2061,
+  "Name": "Mei and the Baby Cat Bus",
+  "Type": "Movie",
+  "Tags": [
+    "Adventure",
+    "Fantasy",
+    "Animal Protagonists",
+    "Cats",
+    "Contemporary Fantasy",
+    "Countryside",
+    "Family Friendly",
+    "Ghibli Museum Shorts",
+    "Non-Human Protagonists",
+    "Shorts"
+  ],
+  "Rating": 3.78,
+  "Release_year": 2001,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cae0adc3ecb12108317"
+  },
+  "Rank": 4575,
+  "Name": "Koro's Big Day Out",
+  "Type": "Movie",
+  "Tags": [
+    "Adventure",
+    "Animal Protagonists",
+    "Dogs",
+    "Family Friendly",
+    "Ghibli Museum Shorts",
+    "Non-Human Protagonists",
+    "Pets",
+    "Shorts"
+  ],
+  "Rating": 3.54,
+  "Release_year": 2001,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cae0adc3ecb12108ced"
+  },
+  "Rank": 7093,
+  "Name": "The Whale Hunt",
+  "Type": "Movie",
+  "Tags": [
+    "Fantasy",
+    "Family Friendly",
+    "Ghibli Museum Shorts",
+    "Shorts"
+  ],
+  "Rating": 3.39,
+  "Release_year": 2001,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cb00adc3ecb1210a484"
+  },
+  "Rank": 13132,
+  "Name": "Lawson: Spirited Away CM",
+  "Type": "Other",
+  "Tags": [
+    "Commercials",
+    "Promotional",
+    "Work Life"
+  ],
+  "Rating": 2.97,
+  "Release_year": 2001,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cb00adc3ecb1210aae5"
+  },
+  "Rank": 14765,
+  "Name": "Umacha",
+  "Type": "Other",
+  "Tags": [
+    "Commercials",
+    "Food and Beverage",
+    "Promotional",
+    "Short Episodes"
+  ],
+  "Rating": 2.63,
+  "Release_year": 2001,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb12107468"
+  },
+  "Rank": 816,
+  "Name": "The Cat Returns",
+  "Type": "Movie",
+  "Tags": [
+    "Fantasy",
+    "Animal Protagonists",
+    "Animal Transformation",
+    "Anthropomorphic",
+    "Cats",
+    "Contemporary Fantasy",
+    "Family Friendly",
+    "Non-Human Protagonists",
+    "Based on a Manga"
+  ],
+  "Rating": 4.02,
+  "Release_year": 2002,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cae0adc3ecb121084ee"
+  },
+  "Rank": 5046,
+  "Name": "Kuusou no Sora Tobu Kikai-tachi",
+  "Type": "Movie",
+  "Tags": [
+    "Fantasy",
+    "Ghibli Museum Shorts",
+    "Historical",
+    "Shorts"
+  ],
+  "Rating": 3.5,
+  "Release_year": 2002,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cae0adc3ecb12108c7b"
+  },
+  "Rank": 6979,
+  "Name": "House Foods: Ouchi de Tabeyou",
+  "Type": "Other",
+  "Tags": [
+    "Commercials",
+    "Short Episodes"
+  ],
+  "Rating": 3.39,
+  "Release_year": 2003,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb1210716a"
+  },
+  "Rank": 50,
+  "Name": "Howl's Moving Castle",
+  "Type": "Movie",
+  "Tags": [
+    "Adventure",
+    "Fantasy",
+    "Romance",
+    "Curse",
+    "Family Friendly",
+    "Lifestyle Change",
+    "Magic",
+    "Witches",
+    "Based on a Novel"
+  ],
+  "Rating": 4.43,
+  "Release_year": 2004,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11caf0adc3ecb12109242"
+  },
+  "Rank": 8458,
+  "Name": "Ghibli ga Ippai Special Short Short",
+  "Type": "Other",
+  "Tags": [
+    "Commercials",
+    "Promotional",
+    "Short Episodes"
+  ],
+  "Rating": 3.32,
+  "Release_year": 2005,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cb00adc3ecb1210a7f5"
+  },
+  "Rank": 14013,
+  "Name": "Meiko Haigo: Dore Dore no Uta",
+  "Type": "Music",
+  "Tags": [
+    "Animal Protagonists",
+    "Family Friendly",
+    "Insects",
+    "Non-Human Protagonists"
+  ],
+  "Rating": 2.84,
+  "Release_year": 2005,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cad0adc3ecb12107d65"
+  },
+  "Rank": 3117,
+  "Name": "The Day I Bought a Star",
+  "Type": "Movie",
+  "Tags": [
+    "Sci Fi",
+    "Ghibli Museum Shorts",
+    "Shorts"
+  ],
+  "Rating": 3.66,
+  "Release_year": 2006,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cae0adc3ecb121083c5"
+  },
+  "Rank": 4749,
+  "Name": "Tales from Earthsea",
+  "Type": "Movie",
+  "Tags": [
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Based on a Novel",
+    "Violence"
+  ],
+  "Rating": 3.53,
+  "Release_year": 2006,
+  "Content_Warning": [
+    "Violence"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cae0adc3ecb12108c5f"
+  },
+  "Rank": 6951,
+  "Name": "House Hunting",
+  "Type": "Movie",
+  "Tags": [
+    "Adventure",
+    "Fantasy",
+    "Ghibli Museum Shorts",
+    "Shorts"
+  ],
+  "Rating": 3.4,
+  "Release_year": 2006,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cae0adc3ecb12108d4a"
+  },
+  "Rank": 7186,
+  "Name": "Monmon the Water Spider",
+  "Type": "Movie",
+  "Tags": [
+    "Fantasy",
+    "Romance",
+    "Animal Protagonists",
+    "Family Friendly",
+    "Ghibli Museum Shorts",
+    "Insects",
+    "No Dialogue",
+    "Non-Human Protagonists",
+    "Shorts",
+    "Original Work"
+  ],
+  "Rating": 3.38,
+  "Release_year": 2006,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cb00adc3ecb1210a705"
+  },
+  "Rank": 13773,
+  "Name": "Taneyamagahara no Yoru",
+  "Type": "Movie",
+  "Tags": [
+    "Countryside",
+    "Picture Drama",
+    "Shorts"
+  ],
+  "Rating": 2.88,
+  "Release_year": 2006,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11caf0adc3ecb12109824"
+  },
+  "Rank": 9964,
+  "Name": "Iblard Jikan",
+  "Type": "OVA  ",
+  "Tags": [
+    "Fantasy",
+    "No Dialogue",
+    "Original Work"
+  ],
+  "Rating": 3.23,
+  "Release_year": 2007,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb121073d1"
+  },
+  "Rank": 665,
+  "Name": "Ponyo on the Cliff by the Sea",
+  "Type": "Movie",
+  "Tags": [
+    "Fantasy",
+    "Contemporary Fantasy",
+    "Family Friendly",
+    "Magic",
+    "Mermaids",
+    "Non-Human Protagonists",
+    "Ocean",
+    "Original Work"
+  ],
+  "Rating": 4.07,
+  "Release_year": 2008,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cb00adc3ecb1210a52d"
+  },
+  "Rank": 13301,
+  "Name": "Yui Aragaki: piece",
+  "Type": "Music",
+  "Tags": [
+    "Slice of Life"
+  ],
+  "Rating": 2.95,
+  "Release_year": 2009,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cb00adc3ecb1210a91f"
+  },
+  "Rank": 14311,
+  "Name": "Yomiuri Shimbun",
+  "Type": "Other",
+  "Tags": [
+    "Commercials",
+    "Historical",
+    "Promotional"
+  ],
+  "Rating": 2.77,
+  "Release_year": 2009,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb12107395"
+  },
+  "Rank": 605,
+  "Name": "The Secret World of Arrietty",
+  "Type": "Movie",
+  "Tags": [
+    "Fantasy",
+    "Contemporary Fantasy",
+    "Family Friendly",
+    "Based on a Novel"
+  ],
+  "Rating": 4.08,
+  "Release_year": 2010,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cad0adc3ecb12107e08"
+  },
+  "Rank": 3280,
+  "Name": "A Sumo Wrestler's Tail",
+  "Type": "Movie",
+  "Tags": [
+    "Comedy",
+    "Sports",
+    "Animal Protagonists",
+    "Anthropomorphic",
+    "Ghibli Museum Shorts",
+    "Hand to Hand Combat",
+    "Non-Human Protagonists",
+    "Shorts",
+    "Sumo Wrestling",
+    "Wrestling"
+  ],
+  "Rating": 3.64,
+  "Release_year": 2010,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cae0adc3ecb12108e43"
+  },
+  "Rank": 7435,
+  "Name": "Mr. Dough and the Egg Princess",
+  "Type": "Movie",
+  "Tags": [
+    "Fantasy",
+    "Anthropomorphic",
+    "Family Friendly",
+    "Food Protagonists",
+    "Ghibli Museum Shorts",
+    "Magic",
+    "Non-Human Protagonists",
+    "Shorts",
+    "Witches"
+  ],
+  "Rating": 3.37,
+  "Release_year": 2010,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11caf0adc3ecb12109c3c"
+  },
+  "Rank": 11012,
+  "Name": "Nisshin Seifun Group CM",
+  "Type": "Other",
+  "Tags": [
+    "Animal Protagonists",
+    "Cats",
+    "Commercials",
+    "Non-Human Protagonists",
+    "Promotional",
+    "Short Episodes"
+  ],
+  "Rating": 3.16,
+  "Release_year": 2010,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb121073ae"
+  },
+  "Rank": 630,
+  "Name": "From Up on Poppy Hill",
+  "Type": "Movie",
+  "Tags": [
+    "Drama",
+    "Romance",
+    "Shoujo",
+    "Slice of Life",
+    "Coming of Age",
+    "Historical",
+    "School Life",
+    "Based on a Manga"
+  ],
+  "Rating": 4.08,
+  "Release_year": 2011,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cae0adc3ecb12108bdb"
+  },
+  "Rank": 6819,
+  "Name": "Treasure Hunting",
+  "Type": "Movie",
+  "Tags": [
+    "Animal Protagonists",
+    "Anthropomorphic",
+    "Family Friendly",
+    "Ghibli Museum Shorts",
+    "Non-Human Protagonists",
+    "Rabbits",
+    "Shorts"
+  ],
+  "Rating": 3.4,
+  "Release_year": 2011,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb1210735a"
+  },
+  "Rank": 546,
+  "Name": "The Tale of the Princess Kaguya",
+  "Type": "Movie",
+  "Tags": [
+    "Fantasy",
+    "Coming of Age",
+    "Feudal Japan",
+    "Historical",
+    "Japanese Mythology",
+    "Royalty"
+  ],
+  "Rating": 4.1,
+  "Release_year": 2013,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb121073c3"
+  },
+  "Rank": 651,
+  "Name": "The Wind Rises",
+  "Type": "Movie",
+  "Tags": [
+    "Drama",
+    "Romance",
+    "Aviation",
+    "Biographies",
+    "Historical",
+    "War",
+    "World War 2"
+  ],
+  "Rating": 4.07,
+  "Release_year": 2013,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cac0adc3ecb1210730a"
+  },
+  "Rank": 466,
+  "Name": "When Marnie Was There",
+  "Type": "Movie",
+  "Tags": [
+    "Drama",
+    "Coming of Age",
+    "Based on a Novel"
+  ],
+  "Rating": 4.13,
+  "Release_year": 2014,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cb00adc3ecb1210a68f"
+  },
+  "Rank": 13655,
+  "Name": "Taiko Drum Master: 15 Shuunenkinen Short Animation",
+  "Type": "Web  ",
+  "Tags": [
+    "Anthropomorphic",
+    "Music",
+    "Shorts",
+    "Based on a Video Game"
+  ],
+  "Rating": 2.9,
+  "Release_year": 2015,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11caf0adc3ecb12109858"
+  },
+  "Rank": 10016,
+  "Name": "Choujuu Giga",
+  "Type": "Web  ",
+  "Tags": [
+    "Animal Protagonists",
+    "Environmental",
+    "No Dialogue",
+    "Non-Human Protagonists",
+    "Promotional",
+    "Rabbits",
+    "Short Episodes"
+  ],
+  "Rating": 3.23,
+  "Release_year": 2016,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cb00adc3ecb1210a93f"
+  },
+  "Rank": 14343,
+  "Name": "Tonari no Onigiri-kun",
+  "Type": "Other",
+  "Tags": [
+    "Commercials",
+    "Food and Beverage",
+    "Promotional",
+    "Short Episodes"
+  ],
+  "Rating": 2.76,
+  "Release_year": 2016,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11cad0adc3ecb12107f6f"
+  },
+  "Rank": 3639,
+  "Name": "Boro the Caterpillar",
+  "Type": "Movie",
+  "Tags": [
+    "Adventure",
+    "Animal Protagonists",
+    "Family Friendly",
+    "Ghibli Museum Shorts",
+    "Insects",
+    "Non-Human Protagonists",
+    "Shorts",
+    "CG Animation"
+  ],
+  "Rating": 3.61,
+  "Release_year": 2018,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11caf0adc3ecb12109d8e"
+  },
+  "Rank": 11350,
+  "Name": "Lawson: Machi no Hot Station CM",
+  "Type": "Other",
+  "Tags": [
+    "Commercials",
+    "Promotional",
+    "Work Life"
+  ],
+  "Rating": 3.14,
+  "Release_year": 2019,
+  "Content_Warning": [
+    "None"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a11caf0adc3ecb1210a22d"
+  },
+  "Rank": 12533,
+  "Name": "Earwig and the Witch",
+  "Type": "TV Sp",
+  "Tags": [
+    "Fantasy",
+    "Family Friendly",
+    "Magic",
+    "Orphans",
+    "Supernatural",
+    "Witches",
+    "Based on a Novel",
+    "CG Animation"
+  ],
+  "Rating": 3.04,
+  "Release_year": 2020,
+  "Content_Warning": [
+    "None"
+  ]
+}]

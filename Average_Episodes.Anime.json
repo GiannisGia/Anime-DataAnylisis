@@ -1,0 +1,4476 @@
+[{
+  "_id": "C&D Distribution",
+  "avgEpisodes": 200,
+  "avgRating": 3.37,
+  "Studio": "C&D Distribution"
+},
+{
+  "_id": "Summer 1996",
+  "avgEpisodes": 140,
+  "avgRating": 3.36,
+  "Studio": "Summer 1996"
+},
+{
+  "_id": "Fall 2000",
+  "avgEpisodes": 130,
+  "avgRating": 3.44,
+  "Studio": "Fall 2000"
+},
+{
+  "_id": "Shanghai Xuandong Communication",
+  "avgEpisodes": 104,
+  "avgRating": 3.36,
+  "Studio": "Shanghai Xuandong Communication"
+},
+{
+  "_id": "Spring 2006",
+  "avgEpisodes": 101.75,
+  "avgRating": 3.42,
+  "Studio": "Spring 2006"
+},
+{
+  "_id": "Tomason",
+  "avgEpisodes": 80,
+  "avgRating": 3.37,
+  "Studio": "Tomason"
+},
+{
+  "_id": "Fall 2019",
+  "avgEpisodes": 77,
+  "avgRating": 3.45,
+  "Studio": "Fall 2019"
+},
+{
+  "_id": "Eiken",
+  "avgEpisodes": 75.38636363636364,
+  "avgRating": 3.4013636363636364,
+  "Studio": "Eiken"
+},
+{
+  "_id": "Tsuchida Production",
+  "avgEpisodes": 72.66666666666667,
+  "avgRating": 3.393333333333333,
+  "Studio": "Tsuchida Production"
+},
+{
+  "_id": "Studio Bogey",
+  "avgEpisodes": 66,
+  "avgRating": 3.53,
+  "Studio": "Studio Bogey"
+},
+{
+  "_id": "Spring 2017",
+  "avgEpisodes": 65.5,
+  "avgRating": 3.1174999999999997,
+  "Studio": "Spring 2017"
+},
+{
+  "_id": "Animation 21",
+  "avgEpisodes": 61.4,
+  "avgRating": 3.2340000000000004,
+  "Studio": "Animation 21"
+},
+{
+  "_id": "Creative Power Entertaining",
+  "avgEpisodes": 60.111111111111114,
+  "avgRating": 3.378888888888889,
+  "Studio": "Creative Power Entertaining"
+},
+{
+  "_id": "Yi Animation",
+  "avgEpisodes": 55,
+  "avgRating": 3.36,
+  "Studio": "Yi Animation"
+},
+{
+  "_id": "CMAY Animation",
+  "avgEpisodes": 52.666666666666664,
+  "avgRating": 3.36,
+  "Studio": "CMAY Animation"
+},
+{
+  "_id": "Nanjing Hongying Animation Entertainment",
+  "avgEpisodes": 52,
+  "avgRating": 3.36,
+  "Studio": "Nanjing Hongying Animation Entertainment"
+},
+{
+  "_id": "Spring 1997",
+  "avgEpisodes": 52,
+  "avgRating": 2.94,
+  "Studio": "Spring 1997"
+},
+{
+  "_id": "Winter 2013",
+  "avgEpisodes": 52,
+  "avgRating": 3.3,
+  "Studio": "Winter 2013"
+},
+{
+  "_id": "Japan Vistec",
+  "avgEpisodes": 51.666666666666664,
+  "avgRating": 3.1300000000000003,
+  "Studio": "Japan Vistec"
+},
+{
+  "_id": "Gallop",
+  "avgEpisodes": 51.096774193548384,
+  "avgRating": 3.4829032258064516,
+  "Studio": "Gallop"
+},
+{
+  "_id": "Winter 2010",
+  "avgEpisodes": 50,
+  "avgRating": 3.39,
+  "Studio": "Winter 2010"
+},
+{
+  "_id": "Studio Zero",
+  "avgEpisodes": 50,
+  "avgRating": 3.33,
+  "Studio": "Studio Zero"
+},
+{
+  "_id": "G&G Entertainment",
+  "avgEpisodes": 49,
+  "avgRating": 3.3866666666666667,
+  "Studio": "G&G Entertainment"
+},
+{
+  "_id": "Winter 2002",
+  "avgEpisodes": 48,
+  "avgRating": 3.21,
+  "Studio": "Winter 2002"
+},
+{
+  "_id": "Spring 2001",
+  "avgEpisodes": 48,
+  "avgRating": 3.165,
+  "Studio": "Spring 2001"
+},
+{
+  "_id": "Azeta Pictures",
+  "avgEpisodes": 47,
+  "avgRating": 3.44,
+  "Studio": "Azeta Pictures"
+},
+{
+  "_id": "Studio Egg",
+  "avgEpisodes": 46.57142857142857,
+  "avgRating": 3.1457142857142855,
+  "Studio": "Studio Egg"
+},
+{
+  "_id": "Dongwoo A&E",
+  "avgEpisodes": 45.714285714285715,
+  "avgRating": 3.5614285714285714,
+  "Studio": "Dongwoo A&E"
+},
+{
+  "_id": "Ruo Hong Culture",
+  "avgEpisodes": 44.46153846153846,
+  "avgRating": 3.826923076923077,
+  "Studio": "Ruo Hong Culture"
+},
+{
+  "_id": "St. Signpost",
+  "avgEpisodes": 43.03448275862069,
+  "avgRating": 3.3848275862068964,
+  "Studio": "St. Signpost"
+},
+{
+  "_id": "Winter 2012",
+  "avgEpisodes": 40.5,
+  "avgRating": 3.0599999999999996,
+  "Studio": "Winter 2012"
+},
+{
+  "_id": "Spring 2009",
+  "avgEpisodes": 39,
+  "avgRating": 3.135,
+  "Studio": "Spring 2009"
+},
+{
+  "_id": "Daichi Doga",
+  "avgEpisodes": 39,
+  "avgRating": 3.135,
+  "Studio": "Daichi Doga"
+},
+{
+  "_id": "Sunwoo Entertainment",
+  "avgEpisodes": 39,
+  "avgRating": 3.63,
+  "Studio": "Sunwoo Entertainment"
+},
+{
+  "_id": "Shogakukan Music & Digital Entertainment",
+  "avgEpisodes": 38.4,
+  "avgRating": 3.2079999999999997,
+  "Studio": "Shogakukan Music & Digital Entertainment"
+},
+{
+  "_id": "Winter 2019",
+  "avgEpisodes": 38,
+  "avgRating": 3.395,
+  "Studio": "Winter 2019"
+},
+{
+  "_id": "Studio Flag",
+  "avgEpisodes": 35.75,
+  "avgRating": 3.115,
+  "Studio": "Studio Flag"
+},
+{
+  "_id": "Kokusai Eigasha",
+  "avgEpisodes": 35.625,
+  "avgRating": 3.32,
+  "Studio": "Kokusai Eigasha"
+},
+{
+  "_id": "Milky Cartoon",
+  "avgEpisodes": 35.6,
+  "avgRating": 3.338,
+  "Studio": "Milky Cartoon"
+},
+{
+  "_id": "Spring 2002",
+  "avgEpisodes": 34.666666666666664,
+  "avgRating": 3.313333333333333,
+  "Studio": "Spring 2002"
+},
+{
+  "_id": "V1 Studio",
+  "avgEpisodes": 34.333333333333336,
+  "avgRating": 4.046666666666667,
+  "Studio": "V1 Studio"
+},
+{
+  "_id": "Studio Sign",
+  "avgEpisodes": 34,
+  "avgRating": 3.25,
+  "Studio": "Studio Sign"
+},
+{
+  "_id": "Spring 2008",
+  "avgEpisodes": 34,
+  "avgRating": 3.323333333333333,
+  "Studio": "Spring 2008"
+},
+{
+  "_id": "Tele-Cartoon Japan",
+  "avgEpisodes": 33.916666666666664,
+  "avgRating": 3.2575000000000003,
+  "Studio": "Tele-Cartoon Japan"
+},
+{
+  "_id": "Nippon Animedia",
+  "avgEpisodes": 33,
+  "avgRating": 3.16,
+  "Studio": "Nippon Animedia"
+},
+{
+  "_id": "CCTV Animation",
+  "avgEpisodes": 32.5,
+  "avgRating": 3.36,
+  "Studio": "CCTV Animation"
+},
+{
+  "_id": "Beijing Rocen",
+  "avgEpisodes": 32.333333333333336,
+  "avgRating": 3.506666666666667,
+  "Studio": "Beijing Rocen"
+},
+{
+  "_id": "Alpha Group",
+  "avgEpisodes": 31.454545454545453,
+  "avgRating": 3.455454545454545,
+  "Studio": "Alpha Group"
+},
+{
+  "_id": "Kachidoki Studio",
+  "avgEpisodes": 31.28846153846154,
+  "avgRating": 3.2867307692307692,
+  "Studio": "Kachidoki Studio"
+},
+{
+  "_id": "Spring 2004",
+  "avgEpisodes": 30.333333333333332,
+  "avgRating": 3.103333333333333,
+  "Studio": "Spring 2004"
+},
+{
+  "_id": "Soyep",
+  "avgEpisodes": 29.05,
+  "avgRating": 3.683,
+  "Studio": "Soyep"
+},
+{
+  "_id": "Studio Comet",
+  "avgEpisodes": 28.983870967741936,
+  "avgRating": 3.4233870967741935,
+  "Studio": "Studio Comet"
+},
+{
+  "_id": "Life Work",
+  "avgEpisodes": 28,
+  "avgRating": 3.5175,
+  "Studio": "Life Work"
+},
+{
+  "_id": "Dax Production",
+  "avgEpisodes": 27.818181818181817,
+  "avgRating": 3.0727272727272723,
+  "Studio": "Dax Production"
+},
+{
+  "_id": "Spring 2013",
+  "avgEpisodes": 27.714285714285715,
+  "avgRating": 3.0942857142857143,
+  "Studio": "Spring 2013"
+},
+{
+  "_id": "Pie in the sky",
+  "avgEpisodes": 27.647058823529413,
+  "avgRating": 3.38,
+  "Studio": "Pie in the sky"
+},
+{
+  "_id": "Knack",
+  "avgEpisodes": 27.62962962962963,
+  "avgRating": 3.314074074074074,
+  "Studio": "Knack"
+},
+{
+  "_id": "The Answer Studio",
+  "avgEpisodes": 27.105263157894736,
+  "avgRating": 3.475263157894737,
+  "Studio": "The Answer Studio"
+},
+{
+  "_id": "Kent House",
+  "avgEpisodes": 27,
+  "avgRating": 3.04,
+  "Studio": "Kent House"
+},
+{
+  "_id": "Spring 2000",
+  "avgEpisodes": 27,
+  "avgRating": 3.4299999999999997,
+  "Studio": "Spring 2000"
+},
+{
+  "_id": "Nippon Animation",
+  "avgEpisodes": 26.80225988700565,
+  "avgRating": 3.4349717514124296,
+  "Studio": "Nippon Animation"
+},
+{
+  "_id": "Joker Films",
+  "avgEpisodes": 26.666666666666668,
+  "avgRating": 3.51,
+  "Studio": "Joker Films"
+},
+{
+  "_id": "Summer 2009",
+  "avgEpisodes": 26,
+  "avgRating": 3.13,
+  "Studio": "Summer 2009"
+},
+{
+  "_id": "Monster's Egg",
+  "avgEpisodes": 26,
+  "avgRating": 3.14,
+  "Studio": "Monster's Egg"
+},
+{
+  "_id": "Studio Sakimakura",
+  "avgEpisodes": 26,
+  "avgRating": 3.456666666666667,
+  "Studio": "Studio Sakimakura"
+},
+{
+  "_id": "Pixel Soft",
+  "avgEpisodes": 26,
+  "avgRating": 3.48,
+  "Studio": "Pixel Soft"
+},
+{
+  "_id": "Odd Job",
+  "avgEpisodes": 26,
+  "avgRating": 3.4880000000000004,
+  "Studio": "Odd Job"
+},
+{
+  "_id": "Puzzle Animation Studio",
+  "avgEpisodes": 26,
+  "avgRating": 3.48,
+  "Studio": "Puzzle Animation Studio"
+},
+{
+  "_id": "Sparky Animation",
+  "avgEpisodes": 26,
+  "avgRating": 3.23,
+  "Studio": "Sparky Animation"
+},
+{
+  "_id": "IMOVE",
+  "avgEpisodes": 26,
+  "avgRating": 3.165,
+  "Studio": "IMOVE"
+},
+{
+  "_id": "Fall 2003",
+  "avgEpisodes": 26,
+  "avgRating": 3.38,
+  "Studio": "Fall 2003"
+},
+{
+  "_id": "Fall 2005",
+  "avgEpisodes": 26,
+  "avgRating": 3.86,
+  "Studio": "Fall 2005"
+},
+{
+  "_id": "Maro Studio",
+  "avgEpisodes": 26,
+  "avgRating": 3.61,
+  "Studio": "Maro Studio"
+},
+{
+  "_id": "Studio Rong",
+  "avgEpisodes": 26,
+  "avgRating": 3.26,
+  "Studio": "Studio Rong"
+},
+{
+  "_id": "W.Baba",
+  "avgEpisodes": 26,
+  "avgRating": 3.325,
+  "Studio": "W.Baba"
+},
+{
+  "_id": "Spring 2005",
+  "avgEpisodes": 26,
+  "avgRating": 3.21,
+  "Studio": "Spring 2005"
+},
+{
+  "_id": "Tatsunoko Production",
+  "avgEpisodes": 25.748387096774195,
+  "avgRating": 3.3545161290322585,
+  "Studio": "Tatsunoko Production"
+},
+{
+  "_id": "Daewon Media",
+  "avgEpisodes": 25.6,
+  "avgRating": 3.228,
+  "Studio": "Daewon Media"
+},
+{
+  "_id": "Ascension",
+  "avgEpisodes": 25.583333333333332,
+  "avgRating": 3.2733333333333334,
+  "Studio": "Ascension"
+},
+{
+  "_id": "Winter 2000",
+  "avgEpisodes": 25.5,
+  "avgRating": 2.7800000000000002,
+  "Studio": "Winter 2000"
+},
+{
+  "_id": "Studio Kaab",
+  "avgEpisodes": 25,
+  "avgRating": 3.36,
+  "Studio": "Studio Kaab"
+},
+{
+  "_id": "Synergy SP",
+  "avgEpisodes": 24.17142857142857,
+  "avgRating": 3.508,
+  "Studio": "Synergy SP"
+},
+{
+  "_id": "Fall 2002",
+  "avgEpisodes": 24,
+  "avgRating": 2.71,
+  "Studio": "Fall 2002"
+},
+{
+  "_id": "Summer 2004",
+  "avgEpisodes": 24,
+  "avgRating": 2.87,
+  "Studio": "Summer 2004"
+},
+{
+  "_id": "Team Till Dawn",
+  "avgEpisodes": 24,
+  "avgRating": 3.65,
+  "Studio": "Team Till Dawn"
+},
+{
+  "_id": "Gosay Studio",
+  "avgEpisodes": 24,
+  "avgRating": 3.37,
+  "Studio": "Gosay Studio"
+},
+{
+  "_id": "Nakamura Animation",
+  "avgEpisodes": 23.5,
+  "avgRating": 3.21,
+  "Studio": "Nakamura Animation"
+},
+{
+  "_id": "Pierrot",
+  "avgEpisodes": 23.183333333333334,
+  "avgRating": 3.4937916666666666,
+  "Studio": "Pierrot"
+},
+{
+  "_id": "7DOC",
+  "avgEpisodes": 22.428571428571427,
+  "avgRating": 3.527142857142857,
+  "Studio": "7DOC"
+},
+{
+  "_id": "Studio Shelter",
+  "avgEpisodes": 22,
+  "avgRating": 3.85,
+  "Studio": "Studio Shelter"
+},
+{
+  "_id": "Group TAC",
+  "avgEpisodes": 21.947916666666668,
+  "avgRating": 3.3236458333333334,
+  "Studio": "Group TAC"
+},
+{
+  "_id": "Kanaban Graphics",
+  "avgEpisodes": 21.8,
+  "avgRating": 3.2340000000000004,
+  "Studio": "Kanaban Graphics"
+},
+{
+  "_id": "Stingray",
+  "avgEpisodes": 21.333333333333332,
+  "avgRating": 2.9966666666666666,
+  "Studio": "Stingray"
+},
+{
+  "_id": "JCF",
+  "avgEpisodes": 21.333333333333332,
+  "avgRating": 3.59,
+  "Studio": "JCF"
+},
+{
+  "_id": "Public and Basic",
+  "avgEpisodes": 21,
+  "avgRating": 3.203333333333333,
+  "Studio": "Public and Basic"
+},
+{
+  "_id": "Shin-Ei Animation",
+  "avgEpisodes": 20.83009708737864,
+  "avgRating": 3.489757281553398,
+  "Studio": "Shin-Ei Animation"
+},
+{
+  "_id": "AQUA ARIS",
+  "avgEpisodes": 20.82758620689655,
+  "avgRating": 3.2817241379310347,
+  "Studio": "AQUA ARIS"
+},
+{
+  "_id": "IKIF+",
+  "avgEpisodes": 20.666666666666668,
+  "avgRating": 3.526666666666667,
+  "Studio": "IKIF+"
+},
+{
+  "_id": "Top Craft",
+  "avgEpisodes": 20.571428571428573,
+  "avgRating": 3.357142857142857,
+  "Studio": "Top Craft"
+},
+{
+  "_id": "Jade Animation",
+  "avgEpisodes": 20.25,
+  "avgRating": 3.615,
+  "Studio": "Jade Animation"
+},
+{
+  "_id": "Kids",
+  "avgEpisodes": 20,
+  "avgRating": 3.04,
+  "Studio": "Kids"
+},
+{
+  "_id": "E&G Films",
+  "avgEpisodes": 20,
+  "avgRating": 3.295,
+  "Studio": "E&G Films"
+},
+{
+  "_id": "Summer 2011",
+  "avgEpisodes": 20,
+  "avgRating": 3.36,
+  "Studio": "Summer 2011"
+},
+{
+  "_id": "Zhongce Picture",
+  "avgEpisodes": 20,
+  "avgRating": 3.72,
+  "Studio": "Zhongce Picture"
+},
+{
+  "_id": "Spring 2007",
+  "avgEpisodes": 20,
+  "avgRating": 3.203333333333333,
+  "Studio": "Spring 2007"
+},
+{
+  "_id": "Trans Arts",
+  "avgEpisodes": 19.88235294117647,
+  "avgRating": 3.2152941176470584,
+  "Studio": "Trans Arts"
+},
+{
+  "_id": "BEE TRAIN",
+  "avgEpisodes": 19.724137931034484,
+  "avgRating": 3.436551724137931,
+  "Studio": "BEE TRAIN"
+},
+{
+  "_id": "Spring 1998",
+  "avgEpisodes": 19.5,
+  "avgRating": 3.5,
+  "Studio": "Spring 1998"
+},
+{
+  "_id": "G.CMay Animation & Film",
+  "avgEpisodes": 19.5,
+  "avgRating": 3.564,
+  "Studio": "G.CMay Animation & Film"
+},
+{
+  "_id": "Fall 1997",
+  "avgEpisodes": 19.5,
+  "avgRating": 3.525,
+  "Studio": "Fall 1997"
+},
+{
+  "_id": "Next Media Animation",
+  "avgEpisodes": 19.285714285714285,
+  "avgRating": 3.1271428571428572,
+  "Studio": "Next Media Animation"
+},
+{
+  "_id": "OLM",
+  "avgEpisodes": 19.14859437751004,
+  "avgRating": 3.408755020080321,
+  "Studio": "OLM"
+},
+{
+  "_id": "Amber Film Works",
+  "avgEpisodes": 19,
+  "avgRating": 3.09,
+  "Studio": "Amber Film Works"
+},
+{
+  "_id": "Planet",
+  "avgEpisodes": 19,
+  "avgRating": 3.254,
+  "Studio": "Planet"
+},
+{
+  "_id": "Spring 2015",
+  "avgEpisodes": 19,
+  "avgRating": 3.14,
+  "Studio": "Spring 2015"
+},
+{
+  "_id": "Studio Junio",
+  "avgEpisodes": 18.705882352941178,
+  "avgRating": 3.3570588235294117,
+  "Studio": "Studio Junio"
+},
+{
+  "_id": "Spring 2012",
+  "avgEpisodes": 18.5,
+  "avgRating": 3.175,
+  "Studio": "Spring 2012"
+},
+{
+  "_id": "OLM Digital",
+  "avgEpisodes": 18.333333333333332,
+  "avgRating": 3.341111111111111,
+  "Studio": "OLM Digital"
+},
+{
+  "_id": "Dancing CG Studio",
+  "avgEpisodes": 18.2,
+  "avgRating": 3.432,
+  "Studio": "Dancing CG Studio"
+},
+{
+  "_id": "Mushi Production",
+  "avgEpisodes": 18.131147540983605,
+  "avgRating": 3.302295081967213,
+  "Studio": "Mushi Production"
+},
+{
+  "_id": "Radix Ace Entertainment",
+  "avgEpisodes": 18.071428571428573,
+  "avgRating": 3.1703571428571427,
+  "Studio": "Radix Ace Entertainment"
+},
+{
+  "_id": "Taikong Works",
+  "avgEpisodes": 18,
+  "avgRating": 3.44,
+  "Studio": "Taikong Works"
+},
+{
+  "_id": "Ashi Productions",
+  "avgEpisodes": 17.98876404494382,
+  "avgRating": 3.2759550561797752,
+  "Studio": "Ashi Productions"
+},
+{
+  "_id": "Winter 2021",
+  "avgEpisodes": 17.375,
+  "avgRating": 3.295,
+  "Studio": "Winter 2021"
+},
+{
+  "_id": "Tsuburaya Productions",
+  "avgEpisodes": 17.333333333333332,
+  "avgRating": 3.1666666666666665,
+  "Studio": "Tsuburaya Productions"
+},
+{
+  "_id": "Sparkly Key Animation Studio",
+  "avgEpisodes": 16.923076923076923,
+  "avgRating": 3.753076923076923,
+  "Studio": "Sparkly Key Animation Studio"
+},
+{
+  "_id": "BN Pictures",
+  "avgEpisodes": 16.875,
+  "avgRating": 3.6318750000000004,
+  "Studio": "BN Pictures"
+},
+{
+  "_id": "Studio Hibari",
+  "avgEpisodes": 16.862745098039216,
+  "avgRating": 3.2796078431372546,
+  "Studio": "Studio Hibari"
+},
+{
+  "_id": "Studio DEEN",
+  "avgEpisodes": 16.83812949640288,
+  "avgRating": 3.5443884892086333,
+  "Studio": "Studio DEEN"
+},
+{
+  "_id": "Toei Animation",
+  "avgEpisodes": 16.795115332428765,
+  "avgRating": 3.4425101763907735,
+  "Studio": "Toei Animation"
+},
+{
+  "_id": "Summer 2008",
+  "avgEpisodes": 16.666666666666668,
+  "avgRating": 3.1133333333333333,
+  "Studio": "Summer 2008"
+},
+{
+  "_id": "Maten Animation",
+  "avgEpisodes": 16.5,
+  "avgRating": 3.36,
+  "Studio": "Maten Animation"
+},
+{
+  "_id": "Tokyo Kids",
+  "avgEpisodes": 16.44,
+  "avgRating": 3.2024,
+  "Studio": "Tokyo Kids"
+},
+{
+  "_id": "Double Eagle",
+  "avgEpisodes": 16.181818181818183,
+  "avgRating": 3.51,
+  "Studio": "Double Eagle"
+},
+{
+  "_id": "B.C MAY PICTURES",
+  "avgEpisodes": 16.11111111111111,
+  "avgRating": 4.0055555555555555,
+  "Studio": "B.C MAY PICTURES"
+},
+{
+  "_id": "Pb Animation",
+  "avgEpisodes": 16,
+  "avgRating": 3.44,
+  "Studio": "Pb Animation"
+},
+{
+  "_id": "Fall 2013",
+  "avgEpisodes": 16,
+  "avgRating": 2.8600000000000003,
+  "Studio": "Fall 2013"
+},
+{
+  "_id": "ALBACROW",
+  "avgEpisodes": 16,
+  "avgRating": 3.13,
+  "Studio": "ALBACROW"
+},
+{
+  "_id": "Fall 1998",
+  "avgEpisodes": 16,
+  "avgRating": 3.03,
+  "Studio": "Fall 1998"
+},
+{
+  "_id": "LX Animation Studio",
+  "avgEpisodes": 16,
+  "avgRating": 3.68,
+  "Studio": "LX Animation Studio"
+},
+{
+  "_id": "Gathering",
+  "avgEpisodes": 16,
+  "avgRating": 3.283513513513513,
+  "Studio": "Gathering"
+},
+{
+  "_id": "Usagi Ou",
+  "avgEpisodes": 15.833333333333334,
+  "avgRating": 3.328333333333333,
+  "Studio": "Usagi Ou"
+},
+{
+  "_id": "LARX Entertainment",
+  "avgEpisodes": 15.666666666666666,
+  "avgRating": 3.5033333333333334,
+  "Studio": "LARX Entertainment"
+},
+{
+  "_id": "Visual 80",
+  "avgEpisodes": 15.538461538461538,
+  "avgRating": 3.2176923076923076,
+  "Studio": "Visual 80"
+},
+{
+  "_id": "ANDo",
+  "avgEpisodes": 15,
+  "avgRating": 3.36,
+  "Studio": "ANDo"
+},
+{
+  "_id": "Wulifang Digital",
+  "avgEpisodes": 15,
+  "avgRating": 3.9,
+  "Studio": "Wulifang Digital"
+},
+{
+  "_id": "Summer 2020",
+  "avgEpisodes": 15,
+  "avgRating": 3.075,
+  "Studio": "Summer 2020"
+},
+{
+  "_id": "Studio VOLN",
+  "avgEpisodes": 15,
+  "avgRating": 3.545,
+  "Studio": "Studio VOLN"
+},
+{
+  "_id": "Summer 2003",
+  "avgEpisodes": 15,
+  "avgRating": 2.84,
+  "Studio": "Summer 2003"
+},
+{
+  "_id": "2:10 Animation",
+  "avgEpisodes": 15,
+  "avgRating": 3.6633333333333336,
+  "Studio": "2:10 Animation"
+},
+{
+  "_id": "Studio Crocodile",
+  "avgEpisodes": 15,
+  "avgRating": 3.3000000000000003,
+  "Studio": "Studio Crocodile"
+},
+{
+  "_id": "TMS Entertainment",
+  "avgEpisodes": 14.903846153846153,
+  "avgRating": 3.5685714285714285,
+  "Studio": "TMS Entertainment"
+},
+{
+  "_id": "XEBEC",
+  "avgEpisodes": 14.872881355932204,
+  "avgRating": 3.4783898305084744,
+  "Studio": "XEBEC"
+},
+{
+  "_id": "Sunrise",
+  "avgEpisodes": 14.77310924369748,
+  "avgRating": 3.4978361344537814,
+  "Studio": "Sunrise"
+},
+{
+  "_id": "Spring 2016",
+  "avgEpisodes": 14.666666666666666,
+  "avgRating": 3.35,
+  "Studio": "Spring 2016"
+},
+{
+  "_id": "CG Year",
+  "avgEpisodes": 14.666666666666666,
+  "avgRating": 3.678888888888889,
+  "Studio": "CG Year"
+},
+{
+  "_id": "Summer 2017",
+  "avgEpisodes": 14.5,
+  "avgRating": 3.45,
+  "Studio": "Summer 2017"
+},
+{
+  "_id": "DMM.futureworks",
+  "avgEpisodes": 14.333333333333334,
+  "avgRating": 3.2711111111111113,
+  "Studio": "DMM.futureworks"
+},
+{
+  "_id": "DLE",
+  "avgEpisodes": 14.32843137254902,
+  "avgRating": 3.1,
+  "Studio": "DLE"
+},
+{
+  "_id": "Fall 2016",
+  "avgEpisodes": 14.2,
+  "avgRating": 3.242,
+  "Studio": "Fall 2016"
+},
+{
+  "_id": "Winter 2003",
+  "avgEpisodes": 14,
+  "avgRating": 3.02,
+  "Studio": "Winter 2003"
+},
+{
+  "_id": "Animation Planet",
+  "avgEpisodes": 13.5,
+  "avgRating": 3.2,
+  "Studio": "Animation Planet"
+},
+{
+  "_id": "Asahi Production",
+  "avgEpisodes": 13.28125,
+  "avgRating": 3.1684375,
+  "Studio": "Asahi Production"
+},
+{
+  "_id": "Hal Film Maker",
+  "avgEpisodes": 13.11111111111111,
+  "avgRating": 3.5219444444444448,
+  "Studio": "Hal Film Maker"
+},
+{
+  "_id": "Fanworks",
+  "avgEpisodes": 13.045454545454545,
+  "avgRating": 3.354772727272727,
+  "Studio": "Fanworks"
+},
+{
+  "_id": "Oriental Creative Color",
+  "avgEpisodes": 13,
+  "avgRating": 3.36,
+  "Studio": "Oriental Creative Color"
+},
+{
+  "_id": "MMT Technology",
+  "avgEpisodes": 13,
+  "avgRating": 3.3,
+  "Studio": "MMT Technology"
+},
+{
+  "_id": "Drawiz",
+  "avgEpisodes": 13,
+  "avgRating": 1.93,
+  "Studio": "Drawiz"
+},
+{
+  "_id": "Fall 2004",
+  "avgEpisodes": 13,
+  "avgRating": 3.33,
+  "Studio": "Fall 2004"
+},
+{
+  "_id": "DR Movie",
+  "avgEpisodes": 13,
+  "avgRating": 3.1466666666666665,
+  "Studio": "DR Movie"
+},
+{
+  "_id": "Risemore",
+  "avgEpisodes": 13,
+  "avgRating": 2.3,
+  "Studio": "Risemore"
+},
+{
+  "_id": "Sunshine Corporation",
+  "avgEpisodes": 13,
+  "avgRating": 3.49,
+  "Studio": "Sunshine Corporation"
+},
+{
+  "_id": "Fall 2008",
+  "avgEpisodes": 13,
+  "avgRating": 3.37,
+  "Studio": "Fall 2008"
+},
+{
+  "_id": "N-Design",
+  "avgEpisodes": 13,
+  "avgRating": 3.04,
+  "Studio": "N-Design"
+},
+{
+  "_id": "Summer 2001",
+  "avgEpisodes": 13,
+  "avgRating": 3.36,
+  "Studio": "Summer 2001"
+},
+{
+  "_id": "Pictionary Art Factory",
+  "avgEpisodes": 13,
+  "avgRating": 3.36,
+  "Studio": "Pictionary Art Factory"
+},
+{
+  "_id": "Winter 2008",
+  "avgEpisodes": 13,
+  "avgRating": 3.36,
+  "Studio": "Winter 2008"
+},
+{
+  "_id": "Summer 2013",
+  "avgEpisodes": 13,
+  "avgRating": 3.3200000000000003,
+  "Studio": "Summer 2013"
+},
+{
+  "_id": "Frameworks Entertainment",
+  "avgEpisodes": 13,
+  "avgRating": 3.36,
+  "Studio": "Frameworks Entertainment"
+},
+{
+  "_id": "ILCA",
+  "avgEpisodes": 12.904761904761905,
+  "avgRating": 2.9314285714285715,
+  "Studio": "ILCA"
+},
+{
+  "_id": "Bridge",
+  "avgEpisodes": 12.826086956521738,
+  "avgRating": 3.347826086956522,
+  "Studio": "Bridge"
+},
+{
+  "_id": "Spring 2018",
+  "avgEpisodes": 12.8,
+  "avgRating": 3.1060000000000003,
+  "Studio": "Spring 2018"
+},
+{
+  "_id": "Making Animation",
+  "avgEpisodes": 12.8,
+  "avgRating": 3.346,
+  "Studio": "Making Animation"
+},
+{
+  "_id": "Kyotoma",
+  "avgEpisodes": 12.8,
+  "avgRating": 2.442,
+  "Studio": "Kyotoma"
+},
+{
+  "_id": "Yi Chen Animation",
+  "avgEpisodes": 12.75,
+  "avgRating": 3.325,
+  "Studio": "Yi Chen Animation"
+},
+{
+  "_id": "Spring 2020",
+  "avgEpisodes": 12.75,
+  "avgRating": 3.2925,
+  "Studio": "Spring 2020"
+},
+{
+  "_id": "Plum",
+  "avgEpisodes": 12.714285714285714,
+  "avgRating": 3.0799999999999996,
+  "Studio": "Plum"
+},
+{
+  "_id": "LMD",
+  "avgEpisodes": 12.666666666666666,
+  "avgRating": 2.8966666666666665,
+  "Studio": "LMD"
+},
+{
+  "_id": "8 Pan",
+  "avgEpisodes": 12.61111111111111,
+  "avgRating": 3.7677777777777774,
+  "Studio": "8 Pan"
+},
+{
+  "_id": "Haoliners Animation League",
+  "avgEpisodes": 12.52,
+  "avgRating": 3.5602,
+  "Studio": "Haoliners Animation League"
+},
+{
+  "_id": "Gift-o`-Animation",
+  "avgEpisodes": 12.5,
+  "avgRating": 3.3150000000000004,
+  "Studio": "Gift-o`-Animation"
+},
+{
+  "_id": "Winter 2006",
+  "avgEpisodes": 12.5,
+  "avgRating": 2.6999999999999997,
+  "Studio": "Winter 2006"
+},
+{
+  "_id": "Zukan Lab",
+  "avgEpisodes": 12.5,
+  "avgRating": 3.3899999999999997,
+  "Studio": "Zukan Lab"
+},
+{
+  "_id": "Wolfsbane",
+  "avgEpisodes": 12.5,
+  "avgRating": 3.2350000000000003,
+  "Studio": "Wolfsbane"
+},
+{
+  "_id": "Ling San Wu Donghua",
+  "avgEpisodes": 12.5,
+  "avgRating": 3.81,
+  "Studio": "Ling San Wu Donghua"
+},
+{
+  "_id": "Digital Media Lab",
+  "avgEpisodes": 12.5,
+  "avgRating": 3.175,
+  "Studio": "Digital Media Lab"
+},
+{
+  "_id": "helo",
+  "avgEpisodes": 12.4,
+  "avgRating": 3.2659999999999996,
+  "Studio": "helo"
+},
+{
+  "_id": "David Production",
+  "avgEpisodes": 12.325581395348838,
+  "avgRating": 3.7113953488372093,
+  "Studio": "David Production"
+},
+{
+  "_id": "Painting Dream",
+  "avgEpisodes": 12.3,
+  "avgRating": 3.431,
+  "Studio": "Painting Dream"
+},
+{
+  "_id": "FENZ",
+  "avgEpisodes": 12.3,
+  "avgRating": 3.653,
+  "Studio": "FENZ"
+},
+{
+  "_id": "Steve N' Steven",
+  "avgEpisodes": 12.2,
+  "avgRating": 3.282,
+  "Studio": "Steve N' Steven"
+},
+{
+  "_id": "Aubec",
+  "avgEpisodes": 12.125,
+  "avgRating": 3.19,
+  "Studio": "Aubec"
+},
+{
+  "_id": "Fall 2007",
+  "avgEpisodes": 12,
+  "avgRating": 3.28,
+  "Studio": "Fall 2007"
+},
+{
+  "_id": "Studio Flad",
+  "avgEpisodes": 12,
+  "avgRating": 3.36,
+  "Studio": "Studio Flad"
+},
+{
+  "_id": "BLADE",
+  "avgEpisodes": 12,
+  "avgRating": 3.2,
+  "Studio": "BLADE"
+},
+{
+  "_id": "BigFireBird",
+  "avgEpisodes": 12,
+  "avgRating": 3.5999999999999996,
+  "Studio": "BigFireBird"
+},
+{
+  "_id": "Seven Stone",
+  "avgEpisodes": 12,
+  "avgRating": 3.3214285714285716,
+  "Studio": "Seven Stone"
+},
+{
+  "_id": "Karaku",
+  "avgEpisodes": 12,
+  "avgRating": 3.65,
+  "Studio": "Karaku"
+},
+{
+  "_id": "HiWaPlus",
+  "avgEpisodes": 12,
+  "avgRating": 3.36,
+  "Studio": "HiWaPlus"
+},
+{
+  "_id": "Studio! Cucuri",
+  "avgEpisodes": 12,
+  "avgRating": 2.385,
+  "Studio": "Studio! Cucuri"
+},
+{
+  "_id": "EKACHI EPILKA",
+  "avgEpisodes": 12,
+  "avgRating": 3.106666666666667,
+  "Studio": "EKACHI EPILKA"
+},
+{
+  "_id": "Saetta",
+  "avgEpisodes": 12,
+  "avgRating": 2.918,
+  "Studio": "Saetta"
+},
+{
+  "_id": "Benlai Pictures",
+  "avgEpisodes": 12,
+  "avgRating": 3.36,
+  "Studio": "Benlai Pictures"
+},
+{
+  "_id": "Pandanium",
+  "avgEpisodes": 12,
+  "avgRating": 3.33,
+  "Studio": "Pandanium"
+},
+{
+  "_id": "Visual Flight",
+  "avgEpisodes": 12,
+  "avgRating": 1.3,
+  "Studio": "Visual Flight"
+},
+{
+  "_id": "Office DCI",
+  "avgEpisodes": 12,
+  "avgRating": 3.24,
+  "Studio": "Office DCI"
+},
+{
+  "_id": "Sunny Gapen",
+  "avgEpisodes": 12,
+  "avgRating": 3.27,
+  "Studio": "Sunny Gapen"
+},
+{
+  "_id": "Okinawa Gonzo",
+  "avgEpisodes": 12,
+  "avgRating": 3.3,
+  "Studio": "Okinawa Gonzo"
+},
+{
+  "_id": "Ginga-ya",
+  "avgEpisodes": 12,
+  "avgRating": 3.35,
+  "Studio": "Ginga-ya"
+},
+{
+  "_id": "JJJOY Animation Studios",
+  "avgEpisodes": 12,
+  "avgRating": 3.36,
+  "Studio": "JJJOY Animation Studios"
+},
+{
+  "_id": "Studio Palette",
+  "avgEpisodes": 12,
+  "avgRating": 4.01,
+  "Studio": "Studio Palette"
+},
+{
+  "_id": "Beat Frog",
+  "avgEpisodes": 12,
+  "avgRating": 3.24,
+  "Studio": "Beat Frog"
+},
+{
+  "_id": "Marine Entertainment",
+  "avgEpisodes": 12,
+  "avgRating": 2.38,
+  "Studio": "Marine Entertainment"
+},
+{
+  "_id": "Polygon Magic",
+  "avgEpisodes": 12,
+  "avgRating": 2.3,
+  "Studio": "Polygon Magic"
+},
+{
+  "_id": "Tengu Kobou",
+  "avgEpisodes": 12,
+  "avgRating": 2.585,
+  "Studio": "Tengu Kobou"
+},
+{
+  "_id": "Studio Kyuma",
+  "avgEpisodes": 12,
+  "avgRating": 2.99,
+  "Studio": "Studio Kyuma"
+},
+{
+  "_id": "Green Monster Team",
+  "avgEpisodes": 12,
+  "avgRating": 3.5566666666666666,
+  "Studio": "Green Monster Team"
+},
+{
+  "_id": "Summer 2018",
+  "avgEpisodes": 12,
+  "avgRating": 3.145,
+  "Studio": "Summer 2018"
+},
+{
+  "_id": "Mokai Technology",
+  "avgEpisodes": 12,
+  "avgRating": 3.5500000000000003,
+  "Studio": "Mokai Technology"
+},
+{
+  "_id": "Kasuga Soft",
+  "avgEpisodes": 12,
+  "avgRating": 2.36,
+  "Studio": "Kasuga Soft"
+},
+{
+  "_id": "MASTER LIGHTS",
+  "avgEpisodes": 12,
+  "avgRating": 2.64,
+  "Studio": "MASTER LIGHTS"
+},
+{
+  "_id": "Fever Creations",
+  "avgEpisodes": 12,
+  "avgRating": 3.43,
+  "Studio": "Fever Creations"
+},
+{
+  "_id": "Ezo'la",
+  "avgEpisodes": 12,
+  "avgRating": 3.573333333333333,
+  "Studio": "Ezo'la"
+},
+{
+  "_id": "Candy Box",
+  "avgEpisodes": 12,
+  "avgRating": 3.49,
+  "Studio": "Candy Box"
+},
+{
+  "_id": "NAMU Animation",
+  "avgEpisodes": 12,
+  "avgRating": 2.91,
+  "Studio": "NAMU Animation"
+},
+{
+  "_id": "aNCHOR",
+  "avgEpisodes": 12,
+  "avgRating": 3.28,
+  "Studio": "aNCHOR"
+},
+{
+  "_id": "Winter 2018",
+  "avgEpisodes": 12,
+  "avgRating": 3.1366666666666667,
+  "Studio": "Winter 2018"
+},
+{
+  "_id": "Forest Hunting One",
+  "avgEpisodes": 12,
+  "avgRating": 2.51,
+  "Studio": "Forest Hunting One"
+},
+{
+  "_id": "monofilmo",
+  "avgEpisodes": 12,
+  "avgRating": 3.95,
+  "Studio": "monofilmo"
+},
+{
+  "_id": "Foch",
+  "avgEpisodes": 11.961538461538462,
+  "avgRating": 3.735,
+  "Studio": "Foch"
+},
+{
+  "_id": "MADHOUSE",
+  "avgEpisodes": 11.7703081232493,
+  "avgRating": 3.511064425770308,
+  "Studio": "MADHOUSE"
+},
+{
+  "_id": "POLYGON PICTURES",
+  "avgEpisodes": 11.545454545454545,
+  "avgRating": 3.4095454545454547,
+  "Studio": "POLYGON PICTURES"
+},
+{
+  "_id": "hololive production",
+  "avgEpisodes": 11.5,
+  "avgRating": 3.55,
+  "Studio": "hololive production"
+},
+{
+  "_id": "Artland",
+  "avgEpisodes": 11.5,
+  "avgRating": 3.457708333333333,
+  "Studio": "Artland"
+},
+{
+  "_id": "Ajia-do",
+  "avgEpisodes": 11.46551724137931,
+  "avgRating": 3.4641379310344824,
+  "Studio": "Ajia-do"
+},
+{
+  "_id": "Simogumi",
+  "avgEpisodes": 11.4,
+  "avgRating": 3.1,
+  "Studio": "Simogumi"
+},
+{
+  "_id": "drop",
+  "avgEpisodes": 11.333333333333334,
+  "avgRating": 2.61,
+  "Studio": "drop"
+},
+{
+  "_id": "Shenying Animation",
+  "avgEpisodes": 11.333333333333334,
+  "avgRating": 3.686666666666667,
+  "Studio": "Shenying Animation"
+},
+{
+  "_id": "Wawayu Animation",
+  "avgEpisodes": 11.285714285714286,
+  "avgRating": 3.6228571428571428,
+  "Studio": "Wawayu Animation"
+},
+{
+  "_id": "GONZO",
+  "avgEpisodes": 11.262295081967213,
+  "avgRating": 3.3694262295081967,
+  "Studio": "GONZO"
+},
+{
+  "_id": "AIC Spirits",
+  "avgEpisodes": 11.11111111111111,
+  "avgRating": 3.3838888888888885,
+  "Studio": "AIC Spirits"
+},
+{
+  "_id": "Winter 2009",
+  "avgEpisodes": 11,
+  "avgRating": 3.26,
+  "Studio": "Winter 2009"
+},
+{
+  "_id": "Winter 2007",
+  "avgEpisodes": 11,
+  "avgRating": 3.36,
+  "Studio": "Winter 2007"
+},
+{
+  "_id": "LOGIC&MAGIC",
+  "avgEpisodes": 11,
+  "avgRating": 3.03,
+  "Studio": "LOGIC&MAGIC"
+},
+{
+  "_id": "Fall 2006",
+  "avgEpisodes": 11,
+  "avgRating": 2.823333333333333,
+  "Studio": "Fall 2006"
+},
+{
+  "_id": "SATELIGHT",
+  "avgEpisodes": 10.929411764705883,
+  "avgRating": 3.483764705882353,
+  "Studio": "SATELIGHT"
+},
+{
+  "_id": "Mili Pictures",
+  "avgEpisodes": 10.857142857142858,
+  "avgRating": 3.7671428571428573,
+  "Studio": "Mili Pictures"
+},
+{
+  "_id": "A.C.G.T",
+  "avgEpisodes": 10.548387096774194,
+  "avgRating": 3.355161290322581,
+  "Studio": "A.C.G.T"
+},
+{
+  "_id": "Charaction",
+  "avgEpisodes": 10.428571428571429,
+  "avgRating": 3.024285714285714,
+  "Studio": "Charaction"
+},
+{
+  "_id": "AXsiZ",
+  "avgEpisodes": 10.285714285714286,
+  "avgRating": 3.001428571428572,
+  "Studio": "AXsiZ"
+},
+{
+  "_id": "Summer 2019",
+  "avgEpisodes": 10.25,
+  "avgRating": 3.3275,
+  "Studio": "Summer 2019"
+},
+{
+  "_id": "Passione",
+  "avgEpisodes": 10.235294117647058,
+  "avgRating": 3.349411764705882,
+  "Studio": "Passione"
+},
+{
+  "_id": "3xCube",
+  "avgEpisodes": 10.2,
+  "avgRating": 3.688,
+  "Studio": "3xCube"
+},
+{
+  "_id": "L2 Studio",
+  "avgEpisodes": 10.1,
+  "avgRating": 3.617,
+  "Studio": "L2 Studio"
+},
+{
+  "_id": "Sakura Create",
+  "avgEpisodes": 10,
+  "avgRating": 3.105,
+  "Studio": "Sakura Create"
+},
+{
+  "_id": "Kitty Film Mitaka Studio",
+  "avgEpisodes": 10,
+  "avgRating": 3.26,
+  "Studio": "Kitty Film Mitaka Studio"
+},
+{
+  "_id": "Summer 2015",
+  "avgEpisodes": 10,
+  "avgRating": 3.44,
+  "Studio": "Summer 2015"
+},
+{
+  "_id": "Haoliners Animation League Korea",
+  "avgEpisodes": 10,
+  "avgRating": 3.68,
+  "Studio": "Haoliners Animation League Korea"
+},
+{
+  "_id": "MAT",
+  "avgEpisodes": 10,
+  "avgRating": 3.36,
+  "Studio": "MAT"
+},
+{
+  "_id": "CUKA",
+  "avgEpisodes": 10,
+  "avgRating": 3.36,
+  "Studio": "CUKA"
+},
+{
+  "_id": "Tiger Animation",
+  "avgEpisodes": 10,
+  "avgRating": 4.35,
+  "Studio": "Tiger Animation"
+},
+{
+  "_id": "Palm Studio",
+  "avgEpisodes": 9.8,
+  "avgRating": 3.522,
+  "Studio": "Palm Studio"
+},
+{
+  "_id": "Bouncy",
+  "avgEpisodes": 9.8,
+  "avgRating": 2.768,
+  "Studio": "Bouncy"
+},
+{
+  "_id": "Summer 2021",
+  "avgEpisodes": 9.666666666666666,
+  "avgRating": 3.206666666666667,
+  "Studio": "Summer 2021"
+},
+{
+  "_id": "Thundray",
+  "avgEpisodes": 9.666666666666666,
+  "avgRating": 3.515,
+  "Studio": "Thundray"
+},
+{
+  "_id": "Maho Film",
+  "avgEpisodes": 9.6,
+  "avgRating": 3.722,
+  "Studio": "Maho Film"
+},
+{
+  "_id": "Zero-G",
+  "avgEpisodes": 9.541666666666666,
+  "avgRating": 3.341666666666667,
+  "Studio": "Zero-G"
+},
+{
+  "_id": "Daume",
+  "avgEpisodes": 9.5,
+  "avgRating": 3.454,
+  "Studio": "Daume"
+},
+{
+  "_id": "I.Gzwei",
+  "avgEpisodes": 9.5,
+  "avgRating": 3.645,
+  "Studio": "I.Gzwei"
+},
+{
+  "_id": "Iyasakadou",
+  "avgEpisodes": 9.5,
+  "avgRating": 3.255,
+  "Studio": "Iyasakadou"
+},
+{
+  "_id": "PRA",
+  "avgEpisodes": 9.5,
+  "avgRating": 3.395,
+  "Studio": "PRA"
+},
+{
+  "_id": "Yaoyorozu",
+  "avgEpisodes": 9.454545454545455,
+  "avgRating": 2.9918181818181817,
+  "Studio": "Yaoyorozu"
+},
+{
+  "_id": "TROYCA",
+  "avgEpisodes": 9.416666666666666,
+  "avgRating": 3.794166666666667,
+  "Studio": "TROYCA"
+},
+{
+  "_id": "Spring 2011",
+  "avgEpisodes": 9.333333333333334,
+  "avgRating": 2.9466666666666668,
+  "Studio": "Spring 2011"
+},
+{
+  "_id": "Studio Puyukai",
+  "avgEpisodes": 9.321428571428571,
+  "avgRating": 3.263214285714286,
+  "Studio": "Studio Puyukai"
+},
+{
+  "_id": "Picture Magic",
+  "avgEpisodes": 9.31578947368421,
+  "avgRating": 3.099473684210526,
+  "Studio": "Picture Magic"
+},
+{
+  "_id": "C2C",
+  "avgEpisodes": 9.277777777777779,
+  "avgRating": 3.233888888888889,
+  "Studio": "C2C"
+},
+{
+  "_id": "Children’s Playground Entertainment",
+  "avgEpisodes": 9.25,
+  "avgRating": 3.2275,
+  "Studio": "Children’s Playground Entertainment"
+},
+{
+  "_id": "A-1 Pictures",
+  "avgEpisodes": 9.242290748898679,
+  "avgRating": 3.647092511013216,
+  "Studio": "A-1 Pictures"
+},
+{
+  "_id": "Bones",
+  "avgEpisodes": 9.041666666666666,
+  "avgRating": 3.757430555555556,
+  "Studio": "Bones"
+},
+{
+  "_id": "Actas",
+  "avgEpisodes": 9.033333333333333,
+  "avgRating": 3.4171666666666667,
+  "Studio": "Actas"
+},
+{
+  "_id": "Brain's Base",
+  "avgEpisodes": 9.010309278350515,
+  "avgRating": 3.6145360824742268,
+  "Studio": "Brain's Base"
+},
+{
+  "_id": "ark",
+  "avgEpisodes": 9,
+  "avgRating": 3.06,
+  "Studio": "ark"
+},
+{
+  "_id": "XEBEC M2",
+  "avgEpisodes": 9,
+  "avgRating": 3.325,
+  "Studio": "XEBEC M2"
+},
+{
+  "_id": "LICO",
+  "avgEpisodes": 9,
+  "avgRating": 3.6380000000000003,
+  "Studio": "LICO"
+},
+{
+  "_id": "Arvo Animation",
+  "avgEpisodes": 8.833333333333334,
+  "avgRating": 3.578333333333333,
+  "Studio": "Arvo Animation"
+},
+{
+  "_id": "Zexcs",
+  "avgEpisodes": 8.791044776119403,
+  "avgRating": 3.290149253731343,
+  "Studio": "Zexcs"
+},
+{
+  "_id": "Lerche",
+  "avgEpisodes": 8.685185185185185,
+  "avgRating": 3.743333333333333,
+  "Studio": "Lerche"
+},
+{
+  "_id": "AIC ASTA",
+  "avgEpisodes": 8.666666666666666,
+  "avgRating": 3.508,
+  "Studio": "AIC ASTA"
+},
+{
+  "_id": "A-Line",
+  "avgEpisodes": 8.666666666666666,
+  "avgRating": 3.3166666666666664,
+  "Studio": "A-Line"
+},
+{
+  "_id": "Summer 2014",
+  "avgEpisodes": 8.666666666666666,
+  "avgRating": 3.3166666666666664,
+  "Studio": "Summer 2014"
+},
+{
+  "_id": "Dangun Pictures",
+  "avgEpisodes": 8.666666666666666,
+  "avgRating": 3.2466666666666666,
+  "Studio": "Dangun Pictures"
+},
+{
+  "_id": "Fall 2017",
+  "avgEpisodes": 8.666666666666666,
+  "avgRating": 3.2133333333333334,
+  "Studio": "Fall 2017"
+},
+{
+  "_id": "RG Animation Studios",
+  "avgEpisodes": 8.631578947368421,
+  "avgRating": 2.9852631578947366,
+  "Studio": "RG Animation Studios"
+},
+{
+  "_id": "Jinni's",
+  "avgEpisodes": 8.615384615384615,
+  "avgRating": 3.2507692307692304,
+  "Studio": "Jinni's"
+},
+{
+  "_id": "feel.",
+  "avgEpisodes": 8.60655737704918,
+  "avgRating": 3.4178688524590166,
+  "Studio": "feel."
+},
+{
+  "_id": "Fall 2012",
+  "avgEpisodes": 8.5,
+  "avgRating": 3.0775,
+  "Studio": "Fall 2012"
+},
+{
+  "_id": "CONNECT",
+  "avgEpisodes": 8.45,
+  "avgRating": 3.5284999999999997,
+  "Studio": "CONNECT"
+},
+{
+  "_id": "EMT Squared",
+  "avgEpisodes": 8.444444444444445,
+  "avgRating": 3.111111111111111,
+  "Studio": "EMT Squared"
+},
+{
+  "_id": "MAPPA",
+  "avgEpisodes": 8.43661971830986,
+  "avgRating": 3.639154929577465,
+  "Studio": "MAPPA"
+},
+{
+  "_id": "Science SARU",
+  "avgEpisodes": 8.416666666666666,
+  "avgRating": 3.6191666666666666,
+  "Studio": "Science SARU"
+},
+{
+  "_id": "A.P.P.P.",
+  "avgEpisodes": 8.35,
+  "avgRating": 3.3895000000000004,
+  "Studio": "A.P.P.P."
+},
+{
+  "_id": "BYMENT",
+  "avgEpisodes": 8.285714285714286,
+  "avgRating": 3.61,
+  "Studio": "BYMENT"
+},
+{
+  "_id": "Pine Jam",
+  "avgEpisodes": 8.272727272727273,
+  "avgRating": 3.421818181818182,
+  "Studio": "Pine Jam"
+},
+{
+  "_id": "Vega Entertainment",
+  "avgEpisodes": 8.23076923076923,
+  "avgRating": 3.281538461538461,
+  "Studio": "Vega Entertainment"
+},
+{
+  "_id": "Pastel",
+  "avgEpisodes": 8.181818181818182,
+  "avgRating": 3.536363636363636,
+  "Studio": "Pastel"
+},
+{
+  "_id": "Manglobe",
+  "avgEpisodes": 8.161290322580646,
+  "avgRating": 3.6248387096774195,
+  "Studio": "Manglobe"
+},
+{
+  "_id": "Geno Studio",
+  "avgEpisodes": 8.125,
+  "avgRating": 3.795,
+  "Studio": "Geno Studio"
+},
+{
+  "_id": "Bee Media",
+  "avgEpisodes": 8.125,
+  "avgRating": 3.1149999999999998,
+  "Studio": "Bee Media"
+},
+{
+  "_id": "Kinema Citrus",
+  "avgEpisodes": 8.121951219512194,
+  "avgRating": 3.447560975609756,
+  "Studio": "Kinema Citrus"
+},
+{
+  "_id": "diomedea",
+  "avgEpisodes": 8.018867924528301,
+  "avgRating": 3.486792452830189,
+  "Studio": "diomedea"
+},
+{
+  "_id": "Hotline",
+  "avgEpisodes": 8,
+  "avgRating": 2.73,
+  "Studio": "Hotline"
+},
+{
+  "_id": "ENGI",
+  "avgEpisodes": 8,
+  "avgRating": 3.448333333333333,
+  "Studio": "ENGI"
+},
+{
+  "_id": "Spring 2019",
+  "avgEpisodes": 8,
+  "avgRating": 3.05,
+  "Studio": "Spring 2019"
+},
+{
+  "_id": "Drive",
+  "avgEpisodes": 8,
+  "avgRating": 3.1366666666666667,
+  "Studio": "Drive"
+},
+{
+  "_id": "Noside",
+  "avgEpisodes": 8,
+  "avgRating": 3.17,
+  "Studio": "Noside"
+},
+{
+  "_id": "Rabbit Gate",
+  "avgEpisodes": 8,
+  "avgRating": 3.25,
+  "Studio": "Rabbit Gate"
+},
+{
+  "_id": "Paper Plane",
+  "avgEpisodes": 8,
+  "avgRating": 3.8000000000000003,
+  "Studio": "Paper Plane"
+},
+{
+  "_id": "Telecom Animation Film",
+  "avgEpisodes": 8,
+  "avgRating": 3.5316129032258066,
+  "Studio": "Telecom Animation Film"
+},
+{
+  "_id": "Irawiasu",
+  "avgEpisodes": 8,
+  "avgRating": 3.29,
+  "Studio": "Irawiasu"
+},
+{
+  "_id": "Rising Force",
+  "avgEpisodes": 8,
+  "avgRating": 2.6333333333333333,
+  "Studio": "Rising Force"
+},
+{
+  "_id": "J.C.Staff",
+  "avgEpisodes": 7.99738219895288,
+  "avgRating": 3.468874345549738,
+  "Studio": "J.C.Staff"
+},
+{
+  "_id": "WHITE FOX",
+  "avgEpisodes": 7.976190476190476,
+  "avgRating": 3.7161904761904765,
+  "Studio": "WHITE FOX"
+},
+{
+  "_id": "LIDEN FILMS",
+  "avgEpisodes": 7.957142857142857,
+  "avgRating": 3.4514285714285715,
+  "Studio": "LIDEN FILMS"
+},
+{
+  "_id": "Seven",
+  "avgEpisodes": 7.948717948717949,
+  "avgRating": 3.0205128205128204,
+  "Studio": "Seven"
+},
+{
+  "_id": "Motion Magic",
+  "avgEpisodes": 7.923076923076923,
+  "avgRating": 3.9015384615384616,
+  "Studio": "Motion Magic"
+},
+{
+  "_id": "Platinum Vision",
+  "avgEpisodes": 7.875,
+  "avgRating": 3.8362499999999997,
+  "Studio": "Platinum Vision"
+},
+{
+  "_id": "P.A. WORKS",
+  "avgEpisodes": 7.862745098039215,
+  "avgRating": 3.512156862745098,
+  "Studio": "P.A. WORKS"
+},
+{
+  "_id": "Lesprit",
+  "avgEpisodes": 7.857142857142857,
+  "avgRating": 3.487142857142857,
+  "Studio": "Lesprit"
+},
+{
+  "_id": "Winter 2017",
+  "avgEpisodes": 7.857142857142857,
+  "avgRating": 2.867142857142857,
+  "Studio": "Winter 2017"
+},
+{
+  "_id": "DandeLion Animation Studio",
+  "avgEpisodes": 7.857142857142857,
+  "avgRating": 3.37,
+  "Studio": "DandeLion Animation Studio"
+},
+{
+  "_id": "Sunrise Beyond",
+  "avgEpisodes": 7.8,
+  "avgRating": 3.4560000000000004,
+  "Studio": "Sunrise Beyond"
+},
+{
+  "_id": "Doga Kobo",
+  "avgEpisodes": 7.761363636363637,
+  "avgRating": 3.503409090909091,
+  "Studio": "Doga Kobo"
+},
+{
+  "_id": "Fall 2020",
+  "avgEpisodes": 7.75,
+  "avgRating": 3.2975,
+  "Studio": "Fall 2020"
+},
+{
+  "_id": "Studio A-Cat",
+  "avgEpisodes": 7.7272727272727275,
+  "avgRating": 2.9954545454545456,
+  "Studio": "Studio A-Cat"
+},
+{
+  "_id": "Project No.9",
+  "avgEpisodes": 7.709677419354839,
+  "avgRating": 3.201935483870968,
+  "Studio": "Project No.9"
+},
+{
+  "_id": "Typhoon Graphics",
+  "avgEpisodes": 7.666666666666667,
+  "avgRating": 2.9033333333333338,
+  "Studio": "Typhoon Graphics"
+},
+{
+  "_id": "Nexus",
+  "avgEpisodes": 7.625,
+  "avgRating": 3.49875,
+  "Studio": "Nexus"
+},
+{
+  "_id": "Super Normal Studio",
+  "avgEpisodes": 7.5,
+  "avgRating": 3.2375,
+  "Studio": "Super Normal Studio"
+},
+{
+  "_id": "AIC PLUS+",
+  "avgEpisodes": 7.5,
+  "avgRating": 3.1644444444444444,
+  "Studio": "AIC PLUS+"
+},
+{
+  "_id": "Coastline Animation Studio",
+  "avgEpisodes": 7.5,
+  "avgRating": 3.4133333333333336,
+  "Studio": "Coastline Animation Studio"
+},
+{
+  "_id": "Unknown",
+  "avgEpisodes": 7.435077968195152,
+  "avgRating": 3.232389995368226,
+  "Studio": "Unknown"
+},
+{
+  "_id": "Assez Finaud Fabric.",
+  "avgEpisodes": 7.4,
+  "avgRating": 2.7640000000000002,
+  "Studio": "Assez Finaud Fabric."
+},
+{
+  "_id": "8-Bit",
+  "avgEpisodes": 7.372549019607843,
+  "avgRating": 3.625098039215686,
+  "Studio": "8-Bit"
+},
+{
+  "_id": "AIC Frontier",
+  "avgEpisodes": 7.333333333333333,
+  "avgRating": 2.2133333333333334,
+  "Studio": "AIC Frontier"
+},
+{
+  "_id": "Mua Film",
+  "avgEpisodes": 7.333333333333333,
+  "avgRating": 4.16,
+  "Studio": "Mua Film"
+},
+{
+  "_id": "Tomovies",
+  "avgEpisodes": 7.285714285714286,
+  "avgRating": 3.1957142857142857,
+  "Studio": "Tomovies"
+},
+{
+  "_id": "Fukushima Gaina",
+  "avgEpisodes": 7.25,
+  "avgRating": 3.0975,
+  "Studio": "Fukushima Gaina"
+},
+{
+  "_id": "Space Neko Company",
+  "avgEpisodes": 7.2,
+  "avgRating": 3.3340000000000005,
+  "Studio": "Space Neko Company"
+},
+{
+  "_id": "Seven Arcs",
+  "avgEpisodes": 7.0588235294117645,
+  "avgRating": 3.53,
+  "Studio": "Seven Arcs"
+},
+{
+  "_id": "GEMBA",
+  "avgEpisodes": 7,
+  "avgRating": 3.442857142857143,
+  "Studio": "GEMBA"
+},
+{
+  "_id": "PP Project",
+  "avgEpisodes": 7,
+  "avgRating": 3.09,
+  "Studio": "PP Project"
+},
+{
+  "_id": "FCC",
+  "avgEpisodes": 7,
+  "avgRating": 3.1300000000000003,
+  "Studio": "FCC"
+},
+{
+  "_id": "Qi Ying Animation",
+  "avgEpisodes": 7,
+  "avgRating": 3.285,
+  "Studio": "Qi Ying Animation"
+},
+{
+  "_id": "Fall 2010",
+  "avgEpisodes": 7,
+  "avgRating": 3.15,
+  "Studio": "Fall 2010"
+},
+{
+  "_id": "Fall 2011",
+  "avgEpisodes": 7,
+  "avgRating": 3.15,
+  "Studio": "Fall 2011"
+},
+{
+  "_id": "Tezuka Productions",
+  "avgEpisodes": 6.963855421686747,
+  "avgRating": 3.3245783132530122,
+  "Studio": "Tezuka Productions"
+},
+{
+  "_id": "SILVER LINK.",
+  "avgEpisodes": 6.9375,
+  "avgRating": 3.5126041666666663,
+  "Studio": "SILVER LINK."
+},
+{
+  "_id": "C-Station",
+  "avgEpisodes": 6.9375,
+  "avgRating": 3.55,
+  "Studio": "C-Station"
+},
+{
+  "_id": "Millepensee",
+  "avgEpisodes": 6.857142857142857,
+  "avgRating": 3.2,
+  "Studio": "Millepensee"
+},
+{
+  "_id": "Sharefun Studio",
+  "avgEpisodes": 6.8,
+  "avgRating": 3.972,
+  "Studio": "Sharefun Studio"
+},
+{
+  "_id": "Studio Animal",
+  "avgEpisodes": 6.8,
+  "avgRating": 3.524,
+  "Studio": "Studio Animal"
+},
+{
+  "_id": "ACC Production",
+  "avgEpisodes": 6.75,
+  "avgRating": 2.9050000000000002,
+  "Studio": "ACC Production"
+},
+{
+  "_id": "Marza Animation Planet",
+  "avgEpisodes": 6.75,
+  "avgRating": 3.3249999999999997,
+  "Studio": "Marza Animation Planet"
+},
+{
+  "_id": "Studio LAN",
+  "avgEpisodes": 6.666666666666667,
+  "avgRating": 3.585555555555555,
+  "Studio": "Studio LAN"
+},
+{
+  "_id": "Nomad",
+  "avgEpisodes": 6.65625,
+  "avgRating": 3.3215625,
+  "Studio": "Nomad"
+},
+{
+  "_id": "Magic Bus",
+  "avgEpisodes": 6.619718309859155,
+  "avgRating": 3.297042253521127,
+  "Studio": "Magic Bus"
+},
+{
+  "_id": "TNK",
+  "avgEpisodes": 6.545454545454546,
+  "avgRating": 3.2963636363636364,
+  "Studio": "TNK"
+},
+{
+  "_id": "Joicy Studio",
+  "avgEpisodes": 6.5,
+  "avgRating": 3.58,
+  "Studio": "Joicy Studio"
+},
+{
+  "_id": "Colored Pencil Animation Japan",
+  "avgEpisodes": 6.5,
+  "avgRating": 3.865,
+  "Studio": "Colored Pencil Animation Japan"
+},
+{
+  "_id": "Pili International Multimedia",
+  "avgEpisodes": 6.5,
+  "avgRating": 3.8533333333333335,
+  "Studio": "Pili International Multimedia"
+},
+{
+  "_id": "Fall 2021",
+  "avgEpisodes": 6.5,
+  "avgRating": 3.3683333333333336,
+  "Studio": "Fall 2021"
+},
+{
+  "_id": "Mook Animation",
+  "avgEpisodes": 6.5,
+  "avgRating": 3.06,
+  "Studio": "Mook Animation"
+},
+{
+  "_id": "Geek Toys",
+  "avgEpisodes": 6.5,
+  "avgRating": 3.41625,
+  "Studio": "Geek Toys"
+},
+{
+  "_id": "P.I.C.S.",
+  "avgEpisodes": 6.5,
+  "avgRating": 3.4050000000000002,
+  "Studio": "P.I.C.S."
+},
+{
+  "_id": "Winter 2005",
+  "avgEpisodes": 6.5,
+  "avgRating": 3.04,
+  "Studio": "Winter 2005"
+},
+{
+  "_id": "Viewworks",
+  "avgEpisodes": 6.5,
+  "avgRating": 2.8899999999999997,
+  "Studio": "Viewworks"
+},
+{
+  "_id": "W-Toon Studio",
+  "avgEpisodes": 6.428571428571429,
+  "avgRating": 3.2842857142857147,
+  "Studio": "W-Toon Studio"
+},
+{
+  "_id": "GARDEN",
+  "avgEpisodes": 6.4,
+  "avgRating": 3.582,
+  "Studio": "GARDEN"
+},
+{
+  "_id": "Fall 2015",
+  "avgEpisodes": 6.4,
+  "avgRating": 3.008,
+  "Studio": "Fall 2015"
+},
+{
+  "_id": "GAINAX",
+  "avgEpisodes": 6.347222222222222,
+  "avgRating": 3.4319444444444445,
+  "Studio": "GAINAX"
+},
+{
+  "_id": "Studio OX",
+  "avgEpisodes": 6.333333333333333,
+  "avgRating": 3.043333333333333,
+  "Studio": "Studio OX"
+},
+{
+  "_id": "SANZIGEN",
+  "avgEpisodes": 6.3,
+  "avgRating": 3.384333333333333,
+  "Studio": "SANZIGEN"
+},
+{
+  "_id": "Encourage Films",
+  "avgEpisodes": 6.266666666666667,
+  "avgRating": 3.194,
+  "Studio": "Encourage Films"
+},
+{
+  "_id": "Phoenix Entertainment",
+  "avgEpisodes": 6.2,
+  "avgRating": 3.068,
+  "Studio": "Phoenix Entertainment"
+},
+{
+  "_id": "Dwarf",
+  "avgEpisodes": 6.133333333333334,
+  "avgRating": 3.3066666666666666,
+  "Studio": "Dwarf"
+},
+{
+  "_id": "LandQ Studios",
+  "avgEpisodes": 6.125,
+  "avgRating": 3.07125,
+  "Studio": "LandQ Studios"
+},
+{
+  "_id": "Piso Studio",
+  "avgEpisodes": 6.066666666666666,
+  "avgRating": 3.253333333333333,
+  "Studio": "Piso Studio"
+},
+{
+  "_id": "Marvy Jack",
+  "avgEpisodes": 6,
+  "avgRating": 3.11,
+  "Studio": "Marvy Jack"
+},
+{
+  "_id": "Picona Creative Studio",
+  "avgEpisodes": 6,
+  "avgRating": 3.415,
+  "Studio": "Picona Creative Studio"
+},
+{
+  "_id": "Lide",
+  "avgEpisodes": 6,
+  "avgRating": 2.885,
+  "Studio": "Lide"
+},
+{
+  "_id": "Arcturus",
+  "avgEpisodes": 6,
+  "avgRating": 2.46,
+  "Studio": "Arcturus"
+},
+{
+  "_id": "Studio Ugoki",
+  "avgEpisodes": 6,
+  "avgRating": 3.26,
+  "Studio": "Studio Ugoki"
+},
+{
+  "_id": "Studio Placebo",
+  "avgEpisodes": 6,
+  "avgRating": 3.415,
+  "Studio": "Studio Placebo"
+},
+{
+  "_id": "Adonero",
+  "avgEpisodes": 6,
+  "avgRating": 2.5999999999999996,
+  "Studio": "Adonero"
+},
+{
+  "_id": "Nice Boat Animation",
+  "avgEpisodes": 6,
+  "avgRating": 3.46,
+  "Studio": "Nice Boat Animation"
+},
+{
+  "_id": "TIA",
+  "avgEpisodes": 6,
+  "avgRating": 2.9050000000000002,
+  "Studio": "TIA"
+},
+{
+  "_id": "Yokohama Animation Lab",
+  "avgEpisodes": 6,
+  "avgRating": 3.324,
+  "Studio": "Yokohama Animation Lab"
+},
+{
+  "_id": "Summer 2016",
+  "avgEpisodes": 6,
+  "avgRating": 3.4,
+  "Studio": "Summer 2016"
+},
+{
+  "_id": "asread",
+  "avgEpisodes": 6,
+  "avgRating": 3.4403703703703705,
+  "Studio": "asread"
+},
+{
+  "_id": "REMIC",
+  "avgEpisodes": 6,
+  "avgRating": 3.4050000000000002,
+  "Studio": "REMIC"
+},
+{
+  "_id": "Buemon",
+  "avgEpisodes": 6,
+  "avgRating": 3.02,
+  "Studio": "Buemon"
+},
+{
+  "_id": "Tatsunoko VCR",
+  "avgEpisodes": 6,
+  "avgRating": 3.7,
+  "Studio": "Tatsunoko VCR"
+},
+{
+  "_id": "SJNEXCUS",
+  "avgEpisodes": 6,
+  "avgRating": 3.57,
+  "Studio": "SJNEXCUS"
+},
+{
+  "_id": "Ishimori Productions",
+  "avgEpisodes": 6,
+  "avgRating": 3.005,
+  "Studio": "Ishimori Productions"
+},
+{
+  "_id": "A-Real",
+  "avgEpisodes": 6,
+  "avgRating": 2.992,
+  "Studio": "A-Real"
+},
+{
+  "_id": "TYO Animations",
+  "avgEpisodes": 5.942857142857143,
+  "avgRating": 3.5505714285714283,
+  "Studio": "TYO Animations"
+},
+{
+  "_id": "Spring 2021",
+  "avgEpisodes": 5.857142857142857,
+  "avgRating": 3.3057142857142856,
+  "Studio": "Spring 2021"
+},
+{
+  "_id": "Ekura Animal",
+  "avgEpisodes": 5.833333333333333,
+  "avgRating": 3.455,
+  "Studio": "Ekura Animal"
+},
+{
+  "_id": "Studio Matrix",
+  "avgEpisodes": 5.8,
+  "avgRating": 2.948,
+  "Studio": "Studio Matrix"
+},
+{
+  "_id": "Studio 3Hz",
+  "avgEpisodes": 5.769230769230769,
+  "avgRating": 3.4615384615384617,
+  "Studio": "Studio 3Hz"
+},
+{
+  "_id": "IMAGIN",
+  "avgEpisodes": 5.75,
+  "avgRating": 3.07875,
+  "Studio": "IMAGIN"
+},
+{
+  "_id": "Studio Gokumi",
+  "avgEpisodes": 5.72972972972973,
+  "avgRating": 3.468378378378379,
+  "Studio": "Studio Gokumi"
+},
+{
+  "_id": "AIC",
+  "avgEpisodes": 5.716763005780347,
+  "avgRating": 3.3321965317919076,
+  "Studio": "AIC"
+},
+{
+  "_id": "AIC Classic",
+  "avgEpisodes": 5.714285714285714,
+  "avgRating": 3.262857142857143,
+  "Studio": "AIC Classic"
+},
+{
+  "_id": "Kaname Productions",
+  "avgEpisodes": 5.625,
+  "avgRating": 3.14125,
+  "Studio": "Kaname Productions"
+},
+{
+  "_id": "Production I.G",
+  "avgEpisodes": 5.612903225806452,
+  "avgRating": 3.6051971326164876,
+  "Studio": "Production I.G"
+},
+{
+  "_id": "Okuruto Noboru",
+  "avgEpisodes": 5.6,
+  "avgRating": 3.336,
+  "Studio": "Okuruto Noboru"
+},
+{
+  "_id": "Shirogumi",
+  "avgEpisodes": 5.555555555555555,
+  "avgRating": 3.2983333333333333,
+  "Studio": "Shirogumi"
+},
+{
+  "_id": "AIC Build",
+  "avgEpisodes": 5.555555555555555,
+  "avgRating": 3.6422222222222222,
+  "Studio": "AIC Build"
+},
+{
+  "_id": "Production IMS",
+  "avgEpisodes": 5.538461538461538,
+  "avgRating": 3.460384615384615,
+  "Studio": "Production IMS"
+},
+{
+  "_id": "TRIGGER",
+  "avgEpisodes": 5.517241379310345,
+  "avgRating": 3.422068965517241,
+  "Studio": "TRIGGER"
+},
+{
+  "_id": "Original Force",
+  "avgEpisodes": 5.5,
+  "avgRating": 3.9425,
+  "Studio": "Original Force"
+},
+{
+  "_id": "Office AO",
+  "avgEpisodes": 5.5,
+  "avgRating": 3.245,
+  "Studio": "Office AO"
+},
+{
+  "_id": "Studio KAI",
+  "avgEpisodes": 5.444444444444445,
+  "avgRating": 3.466666666666667,
+  "Studio": "Studio KAI"
+},
+{
+  "_id": "Fall 2018",
+  "avgEpisodes": 5.4,
+  "avgRating": 3.2060000000000004,
+  "Studio": "Fall 2018"
+},
+{
+  "_id": "Imagica Imageworks",
+  "avgEpisodes": 5.4,
+  "avgRating": 2.91,
+  "Studio": "Imagica Imageworks"
+},
+{
+  "_id": "M.S.C.",
+  "avgEpisodes": 5.384615384615385,
+  "avgRating": 3.6723076923076925,
+  "Studio": "M.S.C."
+},
+{
+  "_id": "Creators in Pack",
+  "avgEpisodes": 5.3076923076923075,
+  "avgRating": 3.045,
+  "Studio": "Creators in Pack"
+},
+{
+  "_id": "Zero-G Room",
+  "avgEpisodes": 5.3,
+  "avgRating": 3.143,
+  "Studio": "Zero-G Room"
+},
+{
+  "_id": "Lay-duce",
+  "avgEpisodes": 5.230769230769231,
+  "avgRating": 3.5584615384615383,
+  "Studio": "Lay-duce"
+},
+{
+  "_id": "SHAFT",
+  "avgEpisodes": 5.215277777777778,
+  "avgRating": 3.5464583333333333,
+  "Studio": "SHAFT"
+},
+{
+  "_id": "ARMS",
+  "avgEpisodes": 5.203389830508475,
+  "avgRating": 3.188135593220339,
+  "Studio": "ARMS"
+},
+{
+  "_id": "GoHands",
+  "avgEpisodes": 5.161290322580645,
+  "avgRating": 3.5206451612903225,
+  "Studio": "GoHands"
+},
+{
+  "_id": "Hoods Entertainment",
+  "avgEpisodes": 5.125,
+  "avgRating": 3.1325,
+  "Studio": "Hoods Entertainment"
+},
+{
+  "_id": "NAZ",
+  "avgEpisodes": 5.117647058823529,
+  "avgRating": 3.255294117647059,
+  "Studio": "NAZ"
+},
+{
+  "_id": "Triangle Staff",
+  "avgEpisodes": 5.09375,
+  "avgRating": 3.299375,
+  "Studio": "Triangle Staff"
+},
+{
+  "_id": "UWAN Pictures",
+  "avgEpisodes": 5,
+  "avgRating": 2.9699999999999998,
+  "Studio": "UWAN Pictures"
+},
+{
+  "_id": "OperaHouse",
+  "avgEpisodes": 5,
+  "avgRating": 2.765,
+  "Studio": "OperaHouse"
+},
+{
+  "_id": "Studio Blanc.",
+  "avgEpisodes": 5,
+  "avgRating": 3.39,
+  "Studio": "Studio Blanc."
+},
+{
+  "_id": "Mu Animation Studio",
+  "avgEpisodes": 5,
+  "avgRating": 3.435,
+  "Studio": "Mu Animation Studio"
+},
+{
+  "_id": "Romanov Films",
+  "avgEpisodes": 5,
+  "avgRating": 2.45,
+  "Studio": "Romanov Films"
+},
+{
+  "_id": "Magia Doraglier",
+  "avgEpisodes": 5,
+  "avgRating": 2.745,
+  "Studio": "Magia Doraglier"
+},
+{
+  "_id": "Chaos Project",
+  "avgEpisodes": 5,
+  "avgRating": 3.1655555555555552,
+  "Studio": "Chaos Project"
+},
+{
+  "_id": "Yumeta Company",
+  "avgEpisodes": 4.956521739130435,
+  "avgRating": 3.387826086956522,
+  "Studio": "Yumeta Company"
+},
+{
+  "_id": "Gaina",
+  "avgEpisodes": 4.833333333333333,
+  "avgRating": 3.4475,
+  "Studio": "Gaina"
+},
+{
+  "_id": "acca effe",
+  "avgEpisodes": 4.8,
+  "avgRating": 3.272,
+  "Studio": "acca effe"
+},
+{
+  "_id": "REVOROOT",
+  "avgEpisodes": 4.8,
+  "avgRating": 3.414,
+  "Studio": "REVOROOT"
+},
+{
+  "_id": "Studio Bind",
+  "avgEpisodes": 4.8,
+  "avgRating": 3.8840000000000003,
+  "Studio": "Studio Bind"
+},
+{
+  "_id": "Sublimation",
+  "avgEpisodes": 4.75,
+  "avgRating": 3.3425000000000002,
+  "Studio": "Sublimation"
+},
+{
+  "_id": "Felix Film",
+  "avgEpisodes": 4.75,
+  "avgRating": 3.39375,
+  "Studio": "Felix Film"
+},
+{
+  "_id": "Winter 2014",
+  "avgEpisodes": 4.666666666666667,
+  "avgRating": 3.013333333333333,
+  "Studio": "Winter 2014"
+},
+{
+  "_id": "Frontline",
+  "avgEpisodes": 4.666666666666667,
+  "avgRating": 3.0033333333333334,
+  "Studio": "Frontline"
+},
+{
+  "_id": "Barnum Laboratory",
+  "avgEpisodes": 4.666666666666667,
+  "avgRating": 2.986666666666667,
+  "Studio": "Barnum Laboratory"
+},
+{
+  "_id": "Orange",
+  "avgEpisodes": 4.642857142857143,
+  "avgRating": 3.5864285714285713,
+  "Studio": "Orange"
+},
+{
+  "_id": "Shuka",
+  "avgEpisodes": 4.611111111111111,
+  "avgRating": 3.936111111111111,
+  "Studio": "Shuka"
+},
+{
+  "_id": "CygamesPictures",
+  "avgEpisodes": 4.6,
+  "avgRating": 3.5020000000000002,
+  "Studio": "CygamesPictures"
+},
+{
+  "_id": "WIT Studio",
+  "avgEpisodes": 4.523809523809524,
+  "avgRating": 3.7466666666666666,
+  "Studio": "WIT Studio"
+},
+{
+  "_id": "Graphinica",
+  "avgEpisodes": 4.466666666666667,
+  "avgRating": 3.4733333333333336,
+  "Studio": "Graphinica"
+},
+{
+  "_id": "CloverWorks",
+  "avgEpisodes": 4.380952380952381,
+  "avgRating": 3.6707142857142863,
+  "Studio": "CloverWorks"
+},
+{
+  "_id": "Team YokkyuFuman",
+  "avgEpisodes": 4.333333333333333,
+  "avgRating": 3.19,
+  "Studio": "Team YokkyuFuman"
+},
+{
+  "_id": "Big Bang",
+  "avgEpisodes": 4.333333333333333,
+  "avgRating": 3.116666666666667,
+  "Studio": "Big Bang"
+},
+{
+  "_id": "ASK Animation",
+  "avgEpisodes": 4.333333333333333,
+  "avgRating": 3.51,
+  "Studio": "ASK Animation"
+},
+{
+  "_id": "Imagica Lab.",
+  "avgEpisodes": 4.333333333333333,
+  "avgRating": 3.19,
+  "Studio": "Imagica Lab."
+},
+{
+  "_id": "Kyoto Animation",
+  "avgEpisodes": 4.245614035087719,
+  "avgRating": 3.7049122807017545,
+  "Studio": "Kyoto Animation"
+},
+{
+  "_id": "Craftar",
+  "avgEpisodes": 4.222222222222222,
+  "avgRating": 3.2788888888888885,
+  "Studio": "Craftar"
+},
+{
+  "_id": "Animation Do",
+  "avgEpisodes": 4.111111111111111,
+  "avgRating": 4.028888888888889,
+  "Studio": "Animation Do"
+},
+{
+  "_id": "CGCG Studio",
+  "avgEpisodes": 4,
+  "avgRating": 3.39,
+  "Studio": "CGCG Studio"
+},
+{
+  "_id": "Multi-Access Company",
+  "avgEpisodes": 4,
+  "avgRating": 3.6,
+  "Studio": "Multi-Access Company"
+},
+{
+  "_id": "Winter 2011",
+  "avgEpisodes": 4,
+  "avgRating": 3.29,
+  "Studio": "Winter 2011"
+},
+{
+  "_id": "Production Reve",
+  "avgEpisodes": 4,
+  "avgRating": 3.565,
+  "Studio": "Production Reve"
+},
+{
+  "_id": "Quebico",
+  "avgEpisodes": 4,
+  "avgRating": 3.29,
+  "Studio": "Quebico"
+},
+{
+  "_id": "Lapin Track",
+  "avgEpisodes": 4,
+  "avgRating": 3.5383333333333336,
+  "Studio": "Lapin Track"
+},
+{
+  "_id": "Vasoon Animation",
+  "avgEpisodes": 4,
+  "avgRating": 3.474,
+  "Studio": "Vasoon Animation"
+},
+{
+  "_id": "Anima&Co.",
+  "avgEpisodes": 4,
+  "avgRating": 3.1933333333333334,
+  "Studio": "Anima&Co."
+},
+{
+  "_id": "AtelierPontdarc",
+  "avgEpisodes": 4,
+  "avgRating": 3.3699999999999997,
+  "Studio": "AtelierPontdarc"
+},
+{
+  "_id": "Grouper Productions",
+  "avgEpisodes": 4,
+  "avgRating": 3.388125,
+  "Studio": "Grouper Productions"
+},
+{
+  "_id": "Tear Studio",
+  "avgEpisodes": 4,
+  "avgRating": 3.6333333333333333,
+  "Studio": "Tear Studio"
+},
+{
+  "_id": "Delpic",
+  "avgEpisodes": 4,
+  "avgRating": 3.36,
+  "Studio": "Delpic"
+},
+{
+  "_id": "Colored Pencil Animation",
+  "avgEpisodes": 4,
+  "avgRating": 3.6783333333333332,
+  "Studio": "Colored Pencil Animation"
+},
+{
+  "_id": "Wao World",
+  "avgEpisodes": 3.8,
+  "avgRating": 3.184,
+  "Studio": "Wao World"
+},
+{
+  "_id": "NUT",
+  "avgEpisodes": 3.7142857142857144,
+  "avgRating": 3.7285714285714286,
+  "Studio": "NUT"
+},
+{
+  "_id": "Studio Gazelle",
+  "avgEpisodes": 3.6666666666666665,
+  "avgRating": 3.0033333333333334,
+  "Studio": "Studio Gazelle"
+},
+{
+  "_id": "D.A.S.T Corporation",
+  "avgEpisodes": 3.6666666666666665,
+  "avgRating": 3.0966666666666662,
+  "Studio": "D.A.S.T Corporation"
+},
+{
+  "_id": "Lyrics",
+  "avgEpisodes": 3.6666666666666665,
+  "avgRating": 3.2100000000000004,
+  "Studio": "Lyrics"
+},
+{
+  "_id": "VENET",
+  "avgEpisodes": 3.6,
+  "avgRating": 3.034,
+  "Studio": "VENET"
+},
+{
+  "_id": "ufotable",
+  "avgEpisodes": 3.5692307692307694,
+  "avgRating": 3.648,
+  "Studio": "ufotable"
+},
+{
+  "_id": "Robot",
+  "avgEpisodes": 3.5,
+  "avgRating": 3.347857142857143,
+  "Studio": "Robot"
+},
+{
+  "_id": "Studio M2",
+  "avgEpisodes": 3.5,
+  "avgRating": 3.5125,
+  "Studio": "Studio M2"
+},
+{
+  "_id": "Studio Fantasia",
+  "avgEpisodes": 3.3333333333333335,
+  "avgRating": 3.072222222222222,
+  "Studio": "Studio Fantasia"
+},
+{
+  "_id": "YHKT Entertainment",
+  "avgEpisodes": 3.3333333333333335,
+  "avgRating": 3.617777777777778,
+  "Studio": "YHKT Entertainment"
+},
+{
+  "_id": "Signal.MD",
+  "avgEpisodes": 3.3157894736842106,
+  "avgRating": 3.4342105263157894,
+  "Studio": "Signal.MD"
+},
+{
+  "_id": "production doA",
+  "avgEpisodes": 3.25,
+  "avgRating": 3.42,
+  "Studio": "production doA"
+},
+{
+  "_id": "Lunch Box",
+  "avgEpisodes": 3.25,
+  "avgRating": 2.9899999999999998,
+  "Studio": "Lunch Box"
+},
+{
+  "_id": "Pollyanna Graphics",
+  "avgEpisodes": 3.25,
+  "avgRating": 3.2875,
+  "Studio": "Pollyanna Graphics"
+},
+{
+  "_id": "Bibury Animation Studios",
+  "avgEpisodes": 3.2222222222222223,
+  "avgRating": 3.4188888888888886,
+  "Studio": "Bibury Animation Studios"
+},
+{
+  "_id": "G-angle",
+  "avgEpisodes": 3.2,
+  "avgRating": 3.112,
+  "Studio": "G-angle"
+},
+{
+  "_id": "CoMix Wave Films",
+  "avgEpisodes": 3.1641791044776117,
+  "avgRating": 3.108955223880597,
+  "Studio": "CoMix Wave Films"
+},
+{
+  "_id": "Office No. 8",
+  "avgEpisodes": 3,
+  "avgRating": 2.58,
+  "Studio": "Office No. 8"
+},
+{
+  "_id": "Domerica",
+  "avgEpisodes": 3,
+  "avgRating": 3.0533333333333332,
+  "Studio": "Domerica"
+},
+{
+  "_id": "Peak Hunt",
+  "avgEpisodes": 3,
+  "avgRating": 2.8,
+  "Studio": "Peak Hunt"
+},
+{
+  "_id": "Studio Ranmaru",
+  "avgEpisodes": 3,
+  "avgRating": 3.42,
+  "Studio": "Studio Ranmaru"
+},
+{
+  "_id": "Silver",
+  "avgEpisodes": 3,
+  "avgRating": 2.88,
+  "Studio": "Silver"
+},
+{
+  "_id": "pH studio",
+  "avgEpisodes": 3,
+  "avgRating": 3.355,
+  "Studio": "pH studio"
+},
+{
+  "_id": "Studio Yamato",
+  "avgEpisodes": 3,
+  "avgRating": 3.11,
+  "Studio": "Studio Yamato"
+},
+{
+  "_id": "Studio Daisy",
+  "avgEpisodes": 3,
+  "avgRating": 3.7,
+  "Studio": "Studio Daisy"
+},
+{
+  "_id": "Studio 4°C",
+  "avgEpisodes": 2.943661971830986,
+  "avgRating": 3.1754929577464788,
+  "Studio": "Studio 4°C"
+},
+{
+  "_id": "Sanrio",
+  "avgEpisodes": 2.918918918918919,
+  "avgRating": 3.236756756756757,
+  "Studio": "Sanrio"
+},
+{
+  "_id": "Ordet",
+  "avgEpisodes": 2.875,
+  "avgRating": 3.29125,
+  "Studio": "Ordet"
+},
+{
+  "_id": "Jumonji",
+  "avgEpisodes": 2.6666666666666665,
+  "avgRating": 3.263333333333333,
+  "Studio": "Jumonji"
+},
+{
+  "_id": "FILMONY",
+  "avgEpisodes": 2.6666666666666665,
+  "avgRating": 3.5766666666666667,
+  "Studio": "FILMONY"
+},
+{
+  "_id": "Idea Factory",
+  "avgEpisodes": 2.6363636363636362,
+  "avgRating": 2.5827272727272725,
+  "Studio": "Idea Factory"
+},
+{
+  "_id": "ISSEN",
+  "avgEpisodes": 2.6,
+  "avgRating": 3.2660000000000005,
+  "Studio": "ISSEN"
+},
+{
+  "_id": "LIDEN FILMS Kyoto Studio",
+  "avgEpisodes": 2.6,
+  "avgRating": 3.344,
+  "Studio": "LIDEN FILMS Kyoto Studio"
+},
+{
+  "_id": "Shanghai Animation Film Studio",
+  "avgEpisodes": 2.5952380952380953,
+  "avgRating": 3.358690476190476,
+  "Studio": "Shanghai Animation Film Studio"
+},
+{
+  "_id": "Studio Pastoral",
+  "avgEpisodes": 2.5,
+  "avgRating": 3.77,
+  "Studio": "Studio Pastoral"
+},
+{
+  "_id": "Minami Machi Bugyousho",
+  "avgEpisodes": 2.5,
+  "avgRating": 2.895,
+  "Studio": "Minami Machi Bugyousho"
+},
+{
+  "_id": "HOTZIPANG",
+  "avgEpisodes": 2.3333333333333335,
+  "avgRating": 3.295,
+  "Studio": "HOTZIPANG"
+},
+{
+  "_id": "Koo-Ki",
+  "avgEpisodes": 2.3333333333333335,
+  "avgRating": 3.018333333333333,
+  "Studio": "Koo-Ki"
+},
+{
+  "_id": "Studio Signal",
+  "avgEpisodes": 2.3333333333333335,
+  "avgRating": 2.766666666666667,
+  "Studio": "Studio Signal"
+},
+{
+  "_id": "Summer 2010",
+  "avgEpisodes": 2.3333333333333335,
+  "avgRating": 3.41,
+  "Studio": "Summer 2010"
+},
+{
+  "_id": "Winter 2020",
+  "avgEpisodes": 2.3333333333333335,
+  "avgRating": 3.2699999999999996,
+  "Studio": "Winter 2020"
+},
+{
+  "_id": "ARTMIC Studios",
+  "avgEpisodes": 2.2857142857142856,
+  "avgRating": 3.165714285714286,
+  "Studio": "ARTMIC Studios"
+},
+{
+  "_id": "GAINAX Kyoto",
+  "avgEpisodes": 2.1666666666666665,
+  "avgRating": 3.3166666666666664,
+  "Studio": "GAINAX Kyoto"
+},
+{
+  "_id": "Studio Giants",
+  "avgEpisodes": 2,
+  "avgRating": 3.29,
+  "Studio": "Studio Giants"
+},
+{
+  "_id": "Daiei",
+  "avgEpisodes": 2,
+  "avgRating": 2.79,
+  "Studio": "Daiei"
+},
+{
+  "_id": "Fortes",
+  "avgEpisodes": 2,
+  "avgRating": 3.23,
+  "Studio": "Fortes"
+},
+{
+  "_id": "Sofix",
+  "avgEpisodes": 2,
+  "avgRating": 2.66,
+  "Studio": "Sofix"
+},
+{
+  "_id": "Liudao Wuyu Animation Studio",
+  "avgEpisodes": 2,
+  "avgRating": 3.85,
+  "Studio": "Liudao Wuyu Animation Studio"
+},
+{
+  "_id": "Trinet Entertainment",
+  "avgEpisodes": 2,
+  "avgRating": 3.34,
+  "Studio": "Trinet Entertainment"
+},
+{
+  "_id": "Shinkuukan",
+  "avgEpisodes": 2,
+  "avgRating": 2.82,
+  "Studio": "Shinkuukan"
+},
+{
+  "_id": "Asura Film",
+  "avgEpisodes": 1.8571428571428572,
+  "avgRating": 3.3085714285714287,
+  "Studio": "Asura Film"
+},
+{
+  "_id": "Cyclone Graphics",
+  "avgEpisodes": 1.8333333333333333,
+  "avgRating": 3.1933333333333334,
+  "Studio": "Cyclone Graphics"
+},
+{
+  "_id": "Agent 21",
+  "avgEpisodes": 1.75,
+  "avgRating": 2.805,
+  "Studio": "Agent 21"
+},
+{
+  "_id": "Prime Time",
+  "avgEpisodes": 1.7142857142857142,
+  "avgRating": 3.5300000000000002,
+  "Studio": "Prime Time"
+},
+{
+  "_id": "PPM",
+  "avgEpisodes": 1.6666666666666667,
+  "avgRating": 2.856666666666667,
+  "Studio": "PPM"
+},
+{
+  "_id": "10GAUGE",
+  "avgEpisodes": 1.6666666666666667,
+  "avgRating": 3.5716666666666668,
+  "Studio": "10GAUGE"
+},
+{
+  "_id": "Rockwell Eyes",
+  "avgEpisodes": 1.5,
+  "avgRating": 3.3899999999999997,
+  "Studio": "Rockwell Eyes"
+},
+{
+  "_id": "Studio Coa",
+  "avgEpisodes": 1.5,
+  "avgRating": 3.1900000000000004,
+  "Studio": "Studio Coa"
+},
+{
+  "_id": "Rikuentai",
+  "avgEpisodes": 1.5,
+  "avgRating": 2.9525,
+  "Studio": "Rikuentai"
+},
+{
+  "_id": "An DerCen",
+  "avgEpisodes": 1.5,
+  "avgRating": 2.83,
+  "Studio": "An DerCen"
+},
+{
+  "_id": "Kaeruotoko Shokai",
+  "avgEpisodes": 1.5,
+  "avgRating": 3.465,
+  "Studio": "Kaeruotoko Shokai"
+},
+{
+  "_id": "Ginga Teikoku",
+  "avgEpisodes": 1.5,
+  "avgRating": 3.15,
+  "Studio": "Ginga Teikoku"
+},
+{
+  "_id": "Studio Rikka",
+  "avgEpisodes": 1.5,
+  "avgRating": 3.6340000000000003,
+  "Studio": "Studio Rikka"
+},
+{
+  "_id": "Deck",
+  "avgEpisodes": 1.5,
+  "avgRating": 3.3499999999999996,
+  "Studio": "Deck"
+},
+{
+  "_id": "Anpro",
+  "avgEpisodes": 1.5,
+  "avgRating": 3.42,
+  "Studio": "Anpro"
+},
+{
+  "_id": "Dynamo Pictures",
+  "avgEpisodes": 1.4285714285714286,
+  "avgRating": 3.217142857142857,
+  "Studio": "Dynamo Pictures"
+},
+{
+  "_id": "Sola Digital Arts",
+  "avgEpisodes": 1.4,
+  "avgRating": 3.4219999999999997,
+  "Studio": "Sola Digital Arts"
+},
+{
+  "_id": "Digital Frontier",
+  "avgEpisodes": 1.4,
+  "avgRating": 3.397,
+  "Studio": "Digital Frontier"
+},
+{
+  "_id": "SIDO",
+  "avgEpisodes": 1.3333333333333333,
+  "avgRating": 2.83,
+  "Studio": "SIDO"
+},
+{
+  "_id": "Studio Moriken",
+  "avgEpisodes": 1.3333333333333333,
+  "avgRating": 3.36,
+  "Studio": "Studio Moriken"
+},
+{
+  "_id": "TriF Studio",
+  "avgEpisodes": 1.25,
+  "avgRating": 3.425,
+  "Studio": "TriF Studio"
+},
+{
+  "_id": "The Village of Marchen",
+  "avgEpisodes": 1.25,
+  "avgRating": 2.305,
+  "Studio": "The Village of Marchen"
+},
+{
+  "_id": "Echoes",
+  "avgEpisodes": 1.1428571428571428,
+  "avgRating": 3.1671428571428573,
+  "Studio": "Echoes"
+},
+{
+  "_id": "Ja Regarde",
+  "avgEpisodes": 1,
+  "avgRating": 3.35,
+  "Studio": "Ja Regarde"
+},
+{
+  "_id": "TERADAMOKEI",
+  "avgEpisodes": 1,
+  "avgRating": 2.586,
+  "Studio": "TERADAMOKEI"
+},
+{
+  "_id": "Circus Production",
+  "avgEpisodes": 1,
+  "avgRating": 3.06,
+  "Studio": "Circus Production"
+},
+{
+  "_id": "Jichitai Anime",
+  "avgEpisodes": 1,
+  "avgRating": 3.36,
+  "Studio": "Jichitai Anime"
+},
+{
+  "_id": "Panda Factory",
+  "avgEpisodes": 1,
+  "avgRating": 2.78,
+  "Studio": "Panda Factory"
+},
+{
+  "_id": "indeprox",
+  "avgEpisodes": 1,
+  "avgRating": 3.105,
+  "Studio": "indeprox"
+},
+{
+  "_id": "Ekakiya",
+  "avgEpisodes": 1,
+  "avgRating": 3.32,
+  "Studio": "Ekakiya"
+},
+{
+  "_id": "Yapiko Animation",
+  "avgEpisodes": 1,
+  "avgRating": 3.33,
+  "Studio": "Yapiko Animation"
+},
+{
+  "_id": "Garden Lodge",
+  "avgEpisodes": 1,
+  "avgRating": 2.56,
+  "Studio": "Garden Lodge"
+},
+{
+  "_id": "Soeishinsha",
+  "avgEpisodes": 1,
+  "avgRating": 2.32,
+  "Studio": "Soeishinsha"
+},
+{
+  "_id": "DOGA Productions",
+  "avgEpisodes": 1,
+  "avgRating": 2.74,
+  "Studio": "DOGA Productions"
+},
+{
+  "_id": "Sean Pictures",
+  "avgEpisodes": 1,
+  "avgRating": 3.36,
+  "Studio": "Sean Pictures"
+},
+{
+  "_id": "SYOK Studio",
+  "avgEpisodes": 1,
+  "avgRating": 3.67,
+  "Studio": "SYOK Studio"
+},
+{
+  "_id": "Diorama",
+  "avgEpisodes": 1,
+  "avgRating": 3.1075,
+  "Studio": "Diorama"
+},
+{
+  "_id": "Welz Animation Studios",
+  "avgEpisodes": 1,
+  "avgRating": 3.36,
+  "Studio": "Welz Animation Studios"
+},
+{
+  "_id": "Winter 2016",
+  "avgEpisodes": 1,
+  "avgRating": 2.23,
+  "Studio": "Winter 2016"
+},
+{
+  "_id": "Atelier Giga",
+  "avgEpisodes": 1,
+  "avgRating": 2.82,
+  "Studio": "Atelier Giga"
+},
+{
+  "_id": "Project Team Sara",
+  "avgEpisodes": 1,
+  "avgRating": 3.1033333333333335,
+  "Studio": "Project Team Sara"
+},
+{
+  "_id": "Bevore",
+  "avgEpisodes": 1,
+  "avgRating": 2.8449999999999998,
+  "Studio": "Bevore"
+},
+{
+  "_id": "WillPalette",
+  "avgEpisodes": 1,
+  "avgRating": 3.36,
+  "Studio": "WillPalette"
+},
+{
+  "_id": "MooGoo",
+  "avgEpisodes": 1,
+  "avgRating": 3.075,
+  "Studio": "MooGoo"
+},
+{
+  "_id": "Tsumugi Akita Animation Lab",
+  "avgEpisodes": 1,
+  "avgRating": 3.36,
+  "Studio": "Tsumugi Akita Animation Lab"
+},
+{
+  "_id": "Grayscale Arts",
+  "avgEpisodes": 1,
+  "avgRating": 2.83,
+  "Studio": "Grayscale Arts"
+},
+{
+  "_id": "Animation 501",
+  "avgEpisodes": 1,
+  "avgRating": 3.32,
+  "Studio": "Animation 501"
+},
+{
+  "_id": "Ripple Film",
+  "avgEpisodes": 1,
+  "avgRating": 3.27,
+  "Studio": "Ripple Film"
+},
+{
+  "_id": "Sanctuary",
+  "avgEpisodes": 1,
+  "avgRating": 2.74,
+  "Studio": "Sanctuary"
+},
+{
+  "_id": "Touyou Links",
+  "avgEpisodes": 1,
+  "avgRating": 2.4,
+  "Studio": "Touyou Links"
+},
+{
+  "_id": "Just",
+  "avgEpisodes": 1,
+  "avgRating": 2.8,
+  "Studio": "Just"
+},
+{
+  "_id": "Village Studio",
+  "avgEpisodes": 1,
+  "avgRating": 3.6,
+  "Studio": "Village Studio"
+},
+{
+  "_id": "Cente Studio",
+  "avgEpisodes": 1,
+  "avgRating": 2.68,
+  "Studio": "Cente Studio"
+},
+{
+  "_id": "Studio Tigers",
+  "avgEpisodes": 1,
+  "avgRating": 2.62,
+  "Studio": "Studio Tigers"
+},
+{
+  "_id": "Live2D Creative Studio",
+  "avgEpisodes": 1,
+  "avgRating": 3.24,
+  "Studio": "Live2D Creative Studio"
+},
+{
+  "_id": "Studio Look",
+  "avgEpisodes": 1,
+  "avgRating": 3.15,
+  "Studio": "Studio Look"
+},
+{
+  "_id": "Studio Gram",
+  "avgEpisodes": 1,
+  "avgRating": 3.28,
+  "Studio": "Studio Gram"
+},
+{
+  "_id": "Studio 88",
+  "avgEpisodes": 1,
+  "avgRating": 2.6900000000000004,
+  "Studio": "Studio 88"
+},
+{
+  "_id": "Studio Unicorn",
+  "avgEpisodes": 1,
+  "avgRating": 2.91,
+  "Studio": "Studio Unicorn"
+},
+{
+  "_id": "Studio Live",
+  "avgEpisodes": 1,
+  "avgRating": 2.7649999999999997,
+  "Studio": "Studio Live"
+},
+{
+  "_id": "Takahashi Studio",
+  "avgEpisodes": 1,
+  "avgRating": 3.21,
+  "Studio": "Takahashi Studio"
+},
+{
+  "_id": "Studio Lotus",
+  "avgEpisodes": 1,
+  "avgRating": 3.36,
+  "Studio": "Studio Lotus"
+},
+{
+  "_id": "Build Up",
+  "avgEpisodes": 1,
+  "avgRating": 2.39,
+  "Studio": "Build Up"
+},
+{
+  "_id": "Ishikawa Pro",
+  "avgEpisodes": 0.8571428571428571,
+  "avgRating": 2.9771428571428573,
+  "Studio": "Ishikawa Pro"
+},
+{
+  "_id": "Khara",
+  "avgEpisodes": 0.775,
+  "avgRating": 3.3854999999999995,
+  "Studio": "Khara"
+},
+{
+  "_id": "Studio Colorido",
+  "avgEpisodes": 0.7727272727272727,
+  "avgRating": 3.389090909090909,
+  "Studio": "Studio Colorido"
+},
+{
+  "_id": "GRIZZLY",
+  "avgEpisodes": 0.75,
+  "avgRating": 3.665,
+  "Studio": "GRIZZLY"
+},
+{
+  "_id": "anima",
+  "avgEpisodes": 0.75,
+  "avgRating": 3.2075,
+  "Studio": "anima"
+},
+{
+  "_id": "Yamato Works",
+  "avgEpisodes": 0.6666666666666666,
+  "avgRating": 3.203333333333333,
+  "Studio": "Yamato Works"
+},
+{
+  "_id": "Oxybot",
+  "avgEpisodes": 0.6666666666666666,
+  "avgRating": 3.2933333333333334,
+  "Studio": "Oxybot"
+},
+{
+  "_id": "Trash Studio",
+  "avgEpisodes": 0.5833333333333334,
+  "avgRating": 3.24,
+  "Studio": "Trash Studio"
+},
+{
+  "_id": "Yostar Pictures",
+  "avgEpisodes": 0.5714285714285714,
+  "avgRating": 3.3314285714285714,
+  "Studio": "Yostar Pictures"
+},
+{
+  "_id": "Makaria",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.07,
+  "Studio": "Makaria"
+},
+{
+  "_id": "Kelmadick",
+  "avgEpisodes": 0.5,
+  "avgRating": 2.4,
+  "Studio": "Kelmadick"
+},
+{
+  "_id": "Studio Mir",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.915,
+  "Studio": "Studio Mir"
+},
+{
+  "_id": "Studio Durian",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.0300000000000002,
+  "Studio": "Studio Durian"
+},
+{
+  "_id": "ARECT",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.1849999999999996,
+  "Studio": "ARECT"
+},
+{
+  "_id": "TANOsim",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.1550000000000002,
+  "Studio": "TANOsim"
+},
+{
+  "_id": "HuaMei Animation",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.36,
+  "Studio": "HuaMei Animation"
+},
+{
+  "_id": "Flat Studio",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.44875,
+  "Studio": "Flat Studio"
+},
+{
+  "_id": "Kenji Studio",
+  "avgEpisodes": 0.5,
+  "avgRating": 2.88,
+  "Studio": "Kenji Studio"
+},
+{
+  "_id": "Anon Pictures",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.2025,
+  "Studio": "Anon Pictures"
+},
+{
+  "_id": "Studio Tumble",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.41,
+  "Studio": "Studio Tumble"
+},
+{
+  "_id": "Urban Product",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.44,
+  "Studio": "Urban Product"
+},
+{
+  "_id": "Anime R",
+  "avgEpisodes": 0.5,
+  "avgRating": 2.92,
+  "Studio": "Anime R"
+},
+{
+  "_id": "Frontier Works",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.145,
+  "Studio": "Frontier Works"
+},
+{
+  "_id": "Neft Film",
+  "avgEpisodes": 0.5,
+  "avgRating": 2.545,
+  "Studio": "Neft Film"
+},
+{
+  "_id": "Wolf Smoke",
+  "avgEpisodes": 0.5,
+  "avgRating": 3.37,
+  "Studio": "Wolf Smoke"
+},
+{
+  "_id": "MangoWork Studio",
+  "avgEpisodes": 0.4444444444444444,
+  "avgRating": 3.358888888888889,
+  "Studio": "MangoWork Studio"
+},
+{
+  "_id": "Oh production",
+  "avgEpisodes": 0.42857142857142855,
+  "avgRating": 3.545714285714286,
+  "Studio": "Oh production"
+},
+{
+  "_id": "Studio Binzo",
+  "avgEpisodes": 0.4,
+  "avgRating": 2.662,
+  "Studio": "Studio Binzo"
+},
+{
+  "_id": "East Fish Studio",
+  "avgEpisodes": 0.3333333333333333,
+  "avgRating": 3.3966666666666665,
+  "Studio": "East Fish Studio"
+},
+{
+  "_id": "Saigo no Shudan",
+  "avgEpisodes": 0.3076923076923077,
+  "avgRating": 3.126923076923077,
+  "Studio": "Saigo no Shudan"
+},
+{
+  "_id": "Tama Production",
+  "avgEpisodes": 0.25,
+  "avgRating": 3.46,
+  "Studio": "Tama Production"
+},
+{
+  "_id": "CLAP",
+  "avgEpisodes": 0.2,
+  "avgRating": 3.4979999999999998,
+  "Studio": "CLAP"
+},
+{
+  "_id": "Visual Works",
+  "avgEpisodes": 0.2,
+  "avgRating": 3.5439999999999996,
+  "Studio": "Visual Works"
+},
+{
+  "_id": "Tecarat",
+  "avgEpisodes": 0.16666666666666666,
+  "avgRating": 3.361666666666667,
+  "Studio": "Tecarat"
+},
+{
+  "_id": "Kamikaze Douga",
+  "avgEpisodes": 0.14285714285714285,
+  "avgRating": 3.323571428571429,
+  "Studio": "Kamikaze Douga"
+},
+{
+  "_id": "Light Chaser Animation",
+  "avgEpisodes": 0.14285714285714285,
+  "avgRating": 3.5614285714285714,
+  "Studio": "Light Chaser Animation"
+},
+{
+  "_id": "Studio Ghibli",
+  "avgEpisodes": 0.09615384615384616,
+  "avgRating": 3.54,
+  "Studio": "Studio Ghibli"
+},
+{
+  "_id": "Tomoyasu Murata Company",
+  "avgEpisodes": 0.08333333333333333,
+  "avgRating": 3.3541666666666665,
+  "Studio": "Tomoyasu Murata Company"
+},
+{
+  "_id": "Yamamura Animation",
+  "avgEpisodes": 0.06451612903225806,
+  "avgRating": 2.871935483870968,
+  "Studio": "Yamamura Animation"
+},
+{
+  "_id": "Digital Network Animation",
+  "avgEpisodes": 0,
+  "avgRating": 3.255,
+  "Studio": "Digital Network Animation"
+},
+{
+  "_id": "Spring 2022",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Spring 2022"
+},
+{
+  "_id": "Flying Ship Studio",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Flying Ship Studio"
+},
+{
+  "_id": "Paradise Cafe",
+  "avgEpisodes": 0,
+  "avgRating": 3.71,
+  "Studio": "Paradise Cafe"
+},
+{
+  "_id": "Spring 1995",
+  "avgEpisodes": 0,
+  "avgRating": 3.445,
+  "Studio": "Spring 1995"
+},
+{
+  "_id": "PERIMETRON",
+  "avgEpisodes": 0,
+  "avgRating": 3.453333333333333,
+  "Studio": "PERIMETRON"
+},
+{
+  "_id": "Fall 2022",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Fall 2022"
+},
+{
+  "_id": "Original Dream",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Original Dream"
+},
+{
+  "_id": "Bibury Animation CG",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Bibury Animation CG"
+},
+{
+  "_id": "Studio Elle",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Studio Elle"
+},
+{
+  "_id": "Hurray!",
+  "avgEpisodes": 0,
+  "avgRating": 3.4933333333333336,
+  "Studio": "Hurray!"
+},
+{
+  "_id": "Pancake",
+  "avgEpisodes": 0,
+  "avgRating": 3.4299999999999997,
+  "Studio": "Pancake"
+},
+{
+  "_id": "Spooky Graphic",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Spooky Graphic"
+},
+{
+  "_id": "Qzil.la",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Qzil.la"
+},
+{
+  "_id": "Studio Dadashow",
+  "avgEpisodes": 0,
+  "avgRating": 3.48625,
+  "Studio": "Studio Dadashow"
+},
+{
+  "_id": "Oz",
+  "avgEpisodes": 0,
+  "avgRating": 3.81,
+  "Studio": "Oz"
+},
+{
+  "_id": "Minakata Laboratory",
+  "avgEpisodes": 0,
+  "avgRating": 3.09625,
+  "Studio": "Minakata Laboratory"
+},
+{
+  "_id": "Studio Kafka",
+  "avgEpisodes": 0,
+  "avgRating": 3.93,
+  "Studio": "Studio Kafka"
+},
+{
+  "_id": "Studio Nanahoshi",
+  "avgEpisodes": 0,
+  "avgRating": 3.61,
+  "Studio": "Studio Nanahoshi"
+},
+{
+  "_id": "Nihon-Animedia",
+  "avgEpisodes": 0,
+  "avgRating": 3.18,
+  "Studio": "Nihon-Animedia"
+},
+{
+  "_id": "Ankama Animations",
+  "avgEpisodes": 0,
+  "avgRating": 3.69,
+  "Studio": "Ankama Animations"
+},
+{
+  "_id": "Kyowa Film",
+  "avgEpisodes": 0,
+  "avgRating": 3.3,
+  "Studio": "Kyowa Film"
+},
+{
+  "_id": "Akatsuki",
+  "avgEpisodes": 0,
+  "avgRating": 3.45,
+  "Studio": "Akatsuki"
+},
+{
+  "_id": "Tonko House",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Tonko House"
+},
+{
+  "_id": "Automatic Flowers Studio",
+  "avgEpisodes": 0,
+  "avgRating": 3.54,
+  "Studio": "Automatic Flowers Studio"
+},
+{
+  "_id": "Nekonigashi",
+  "avgEpisodes": 0,
+  "avgRating": 3.46,
+  "Studio": "Nekonigashi"
+},
+{
+  "_id": "Gekigadan",
+  "avgEpisodes": 0,
+  "avgRating": 3.45,
+  "Studio": "Gekigadan"
+},
+{
+  "_id": "Prima Linea Productions",
+  "avgEpisodes": 0,
+  "avgRating": 3.71,
+  "Studio": "Prima Linea Productions"
+},
+{
+  "_id": "Studio Ponoc",
+  "avgEpisodes": 0,
+  "avgRating": 3.492,
+  "Studio": "Studio Ponoc"
+},
+{
+  "_id": "Studio Holhory",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Studio Holhory"
+},
+{
+  "_id": "VSL",
+  "avgEpisodes": 0,
+  "avgRating": 2.99,
+  "Studio": "VSL"
+},
+{
+  "_id": "Directions",
+  "avgEpisodes": 0,
+  "avgRating": 3.55,
+  "Studio": "Directions"
+},
+{
+  "_id": "FUNNY MOVIE",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "FUNNY MOVIE"
+},
+{
+  "_id": "Liberty Animation Studio",
+  "avgEpisodes": 0,
+  "avgRating": 3.08,
+  "Studio": "Liberty Animation Studio"
+},
+{
+  "_id": "Tin House",
+  "avgEpisodes": 0,
+  "avgRating": 3.48,
+  "Studio": "Tin House"
+},
+{
+  "_id": "Ryu Kato Film Works",
+  "avgEpisodes": 0,
+  "avgRating": 2.8033333333333332,
+  "Studio": "Ryu Kato Film Works"
+},
+{
+  "_id": "Yamiken Studio",
+  "avgEpisodes": 0,
+  "avgRating": 3.54,
+  "Studio": "Yamiken Studio"
+},
+{
+  "_id": "Sirius",
+  "avgEpisodes": 0,
+  "avgRating": 2.83,
+  "Studio": "Sirius"
+},
+{
+  "_id": "Kigumi",
+  "avgEpisodes": 0,
+  "avgRating": 2.67,
+  "Studio": "Kigumi"
+},
+{
+  "_id": "DURUFIX",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "DURUFIX"
+},
+{
+  "_id": "Production +h",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Production +h"
+},
+{
+  "_id": "KeyEast",
+  "avgEpisodes": 0,
+  "avgRating": 3.21,
+  "Studio": "KeyEast"
+},
+{
+  "_id": "LIDEN FILMS Osaka Studio",
+  "avgEpisodes": 0,
+  "avgRating": 3.075,
+  "Studio": "LIDEN FILMS Osaka Studio"
+},
+{
+  "_id": "Picograph",
+  "avgEpisodes": 0,
+  "avgRating": 3.37,
+  "Studio": "Picograph"
+},
+{
+  "_id": "Summer 2022",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Summer 2022"
+},
+{
+  "_id": "Griot Groove",
+  "avgEpisodes": 0,
+  "avgRating": 3.61,
+  "Studio": "Griot Groove"
+},
+{
+  "_id": "Studio Chizu",
+  "avgEpisodes": 0,
+  "avgRating": 3.7514285714285713,
+  "Studio": "Studio Chizu"
+},
+{
+  "_id": "Qualia Animation",
+  "avgEpisodes": 0,
+  "avgRating": 3.69,
+  "Studio": "Qualia Animation"
+},
+{
+  "_id": "Suspenders",
+  "avgEpisodes": 0,
+  "avgRating": 3.3016666666666663,
+  "Studio": "Suspenders"
+},
+{
+  "_id": "Studio Himalaya",
+  "avgEpisodes": 0,
+  "avgRating": 3.56,
+  "Studio": "Studio Himalaya"
+},
+{
+  "_id": "IANDA",
+  "avgEpisodes": 0,
+  "avgRating": 2.79,
+  "Studio": "IANDA"
+},
+{
+  "_id": "CALF",
+  "avgEpisodes": 0,
+  "avgRating": 3.415,
+  "Studio": "CALF"
+},
+{
+  "_id": "Speed",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Speed"
+},
+{
+  "_id": "Lapiz",
+  "avgEpisodes": 0,
+  "avgRating": 3.57,
+  "Studio": "Lapiz"
+},
+{
+  "_id": "Morie",
+  "avgEpisodes": 0,
+  "avgRating": 3.465,
+  "Studio": "Morie"
+},
+{
+  "_id": "Studio Kajino",
+  "avgEpisodes": 0,
+  "avgRating": 2.776666666666667,
+  "Studio": "Studio Kajino"
+},
+{
+  "_id": "Digital Media Corporation",
+  "avgEpisodes": 0,
+  "avgRating": 2.74,
+  "Studio": "Digital Media Corporation"
+},
+{
+  "_id": "5th Avenue",
+  "avgEpisodes": 0,
+  "avgRating": 2.87,
+  "Studio": "5th Avenue"
+},
+{
+  "_id": "Studio Kingyoiro",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Studio Kingyoiro"
+},
+{
+  "_id": "TAKUNBOX",
+  "avgEpisodes": 0,
+  "avgRating": 3.293333333333333,
+  "Studio": "TAKUNBOX"
+},
+{
+  "_id": "Gakken Eigakyoku",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Gakken Eigakyoku"
+},
+{
+  "_id": "Winter 2022",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Winter 2022"
+},
+{
+  "_id": "Yonago Gainax",
+  "avgEpisodes": 0,
+  "avgRating": 3.33,
+  "Studio": "Yonago Gainax"
+},
+{
+  "_id": "Studio Korumi",
+  "avgEpisodes": 0,
+  "avgRating": 3.28,
+  "Studio": "Studio Korumi"
+},
+{
+  "_id": "studio bh",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "studio bh"
+},
+{
+  "_id": "Mimoid",
+  "avgEpisodes": 0,
+  "avgRating": 3.41,
+  "Studio": "Mimoid"
+},
+{
+  "_id": "Furifurisoshiki",
+  "avgEpisodes": 0,
+  "avgRating": 3.0976470588235294,
+  "Studio": "Furifurisoshiki"
+},
+{
+  "_id": "Kugatsusha",
+  "avgEpisodes": 0,
+  "avgRating": 3.31,
+  "Studio": "Kugatsusha"
+},
+{
+  "_id": "Chiptune",
+  "avgEpisodes": 0,
+  "avgRating": 3.4,
+  "Studio": "Chiptune"
+},
+{
+  "_id": "Caviar",
+  "avgEpisodes": 0,
+  "avgRating": 3.04,
+  "Studio": "Caviar"
+},
+{
+  "_id": "CyberConnect2 sai",
+  "avgEpisodes": 0,
+  "avgRating": 3.645,
+  "Studio": "CyberConnect2 sai"
+},
+{
+  "_id": "ENISHIYA",
+  "avgEpisodes": 0,
+  "avgRating": 3.74,
+  "Studio": "ENISHIYA"
+},
+{
+  "_id": "Twilight Studio",
+  "avgEpisodes": 0,
+  "avgRating": 3.29,
+  "Studio": "Twilight Studio"
+},
+{
+  "_id": "TWO WAIDEE",
+  "avgEpisodes": 0,
+  "avgRating": 3.33,
+  "Studio": "TWO WAIDEE"
+},
+{
+  "_id": "IKIF",
+  "avgEpisodes": 0,
+  "avgRating": 2.99,
+  "Studio": "IKIF"
+},
+{
+  "_id": "Twin Engine Digital Studio",
+  "avgEpisodes": 0,
+  "avgRating": 3.52,
+  "Studio": "Twin Engine Digital Studio"
+},
+{
+  "_id": "Studio Mother",
+  "avgEpisodes": 0,
+  "avgRating": 3.9050000000000002,
+  "Studio": "Studio Mother"
+},
+{
+  "_id": "Studio Houkiboshi",
+  "avgEpisodes": 0,
+  "avgRating": 3.217142857142857,
+  "Studio": "Studio Houkiboshi"
+},
+{
+  "_id": "Quad",
+  "avgEpisodes": 0,
+  "avgRating": 3.28,
+  "Studio": "Quad"
+},
+{
+  "_id": "HS Pictures Studio",
+  "avgEpisodes": 0,
+  "avgRating": 3.135,
+  "Studio": "HS Pictures Studio"
+},
+{
+  "_id": "Enjin Productions",
+  "avgEpisodes": 0,
+  "avgRating": 3.35,
+  "Studio": "Enjin Productions"
+},
+{
+  "_id": "Trois Studio",
+  "avgEpisodes": 0,
+  "avgRating": 3.71,
+  "Studio": "Trois Studio"
+},
+{
+  "_id": "maxilla",
+  "avgEpisodes": 0,
+  "avgRating": 3.38,
+  "Studio": "maxilla"
+},
+{
+  "_id": "Buyuu",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Buyuu"
+},
+{
+  "_id": "D'Art Shtajio",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "D'Art Shtajio"
+},
+{
+  "_id": "SLEE PRODUCTION",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "SLEE PRODUCTION"
+},
+{
+  "_id": "Poncotan",
+  "avgEpisodes": 0,
+  "avgRating": 3.1266666666666665,
+  "Studio": "Poncotan"
+},
+{
+  "_id": "Studio 5",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Studio 5"
+},
+{
+  "_id": "Jumondou",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Jumondou"
+},
+{
+  "_id": "The Monk Studios",
+  "avgEpisodes": 0,
+  "avgRating": 3.49,
+  "Studio": "The Monk Studios"
+},
+{
+  "_id": "Studio Gohan",
+  "avgEpisodes": 0,
+  "avgRating": 3.376428571428572,
+  "Studio": "Studio Gohan"
+},
+{
+  "_id": "Gudong Animation Studio",
+  "avgEpisodes": 0,
+  "avgRating": 3.465,
+  "Studio": "Gudong Animation Studio"
+},
+{
+  "_id": "Studio Khronos",
+  "avgEpisodes": 0,
+  "avgRating": 3.24,
+  "Studio": "Studio Khronos"
+},
+{
+  "_id": "Studio Pivote",
+  "avgEpisodes": 0,
+  "avgRating": 4.36,
+  "Studio": "Studio Pivote"
+},
+{
+  "_id": "Enagio",
+  "avgEpisodes": 0,
+  "avgRating": 3.59,
+  "Studio": "Enagio"
+},
+{
+  "_id": "OTOIRO",
+  "avgEpisodes": 0,
+  "avgRating": 3.5,
+  "Studio": "OTOIRO"
+},
+{
+  "_id": "Winter 2015",
+  "avgEpisodes": 0,
+  "avgRating": 3.04,
+  "Studio": "Winter 2015"
+},
+{
+  "_id": "October Media",
+  "avgEpisodes": 0,
+  "avgRating": 3.485,
+  "Studio": "October Media"
+},
+{
+  "_id": "Scooter Films",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Scooter Films"
+},
+{
+  "_id": "foodunited.",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "foodunited."
+},
+{
+  "_id": "Office Academy",
+  "avgEpisodes": 0,
+  "avgRating": 3.2,
+  "Studio": "Office Academy"
+},
+{
+  "_id": "Computer Technique Group",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "Computer Technique Group"
+},
+{
+  "_id": "V-sign",
+  "avgEpisodes": 0,
+  "avgRating": 3.36,
+  "Studio": "V-sign"
+}]
